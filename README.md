@@ -44,6 +44,8 @@ python run_predict.py --bias_name $BIAS_NAME --all_models $MODELS
 ## Results analysis
 Run the analysis script to create a .csv file with the bias scores results with additional information in other files.
 The results will be saved in The respected predictions dirs.
+
+\* Note that for the decoy analysis, you'll need to set ```BIAS_NAME=decoy_expensive``` or ```BIAS_NAME=decoy_cheaper``` for the respected biases analysis.
 ```bash
 python run_analysis.py --bias_name $BIAS_NAME --all_models $MODELS
 ```
