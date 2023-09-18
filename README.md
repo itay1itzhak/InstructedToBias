@@ -54,4 +54,4 @@ The figures and tables from the paper could be recreated using code in the anlay
 
 ## License
 
-SpelllingBee is MIT-licensed.
+Instructed to Bias is MIT-licensed.
