@@ -139,7 +139,7 @@
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314",
                 //"--all_models", "t5-v1_1-xxl,flan-t5-xxl",
-                "--all_models", "t5-v1_1-small,flan-t5-small",
+                "--all_models", "t5-v1_1-small,flan-t5-small,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_k_shot_vanilla", "0,1,2,3",
                 //"--all_k_shot_instruct", "0,1,2,3",
                 "--all_k_shot_vanilla", "0,1",

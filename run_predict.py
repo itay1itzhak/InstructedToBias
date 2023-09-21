@@ -156,6 +156,9 @@ def run_predict_all(
                         generate_all_predictions(**experiment_args)
                     except Exception as e:
                         engine = experiment_args["engine"]
+
+                        # print working directory
+                        logging.info(f"Working directory = {os.getcwd()}")
                         logging.info(
                             f"Did not predict file = {input_file}\nengine={engine}"
                         )

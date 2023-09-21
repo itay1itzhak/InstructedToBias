@@ -30,3 +30,4 @@ huggingface/.cache/tmptbzidune
 *.png
 /Predictions
 /huggingface
+.env
