@@ -430,7 +430,7 @@ def create_run_report_and_plot(experiment_args, all_models):
 
     # save final results from comparing_dict as csv
     comparing_dict.to_csv(
-        experiment_args["logging_path"].with_suffix(".csv"), float_format="%.2f"
+        experiment_args["logging_path"].with_suffix(".csv"), float_format="%.3f"
     )
 
 

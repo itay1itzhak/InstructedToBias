@@ -30,7 +30,7 @@ def preprocess_data(full_df, confidences, bias_name, values_list):
             else ["tab:red", "tab:green", "tab:blue"]
         )
     elif bias_name == "false_belief":
-        plot_df = full_df.copy()
+        plot_df = full_df.loc[full_df["Percentage"] != -1].copy()
         plot_df.loc[
             plot_df["Option"] == "Non-real Objects", "Believable"
         ] = "Unbelievable"

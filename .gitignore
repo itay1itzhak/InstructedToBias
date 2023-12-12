@@ -29,5 +29,7 @@ huggingface/.cache/tmptbzidune
 *pdf
 *.png
 /Predictions
+/Predictions_test
 /huggingface
 .env
+rename_old_predictions.py

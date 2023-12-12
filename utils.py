@@ -280,6 +280,7 @@ def get_bias_type_templates_defaults(bias_name, bias_types, templates):
         elif bias_name == "certainty":
             bias_types = "three_probs,two_probs"
         elif bias_name == "false_belief":
-            bias_types = "dm_1,dm_2"
+            # bias_types = "dm_1,dm_2"
+            bias_types = "dm_full"
 
     return bias_types, templates
