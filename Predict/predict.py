@@ -4,11 +4,10 @@ import logging
 
 from Predict.open_ai_api import OpenAIPredictor
 from Predict.t5_predict import T5Predictor
-
+from Predict.llama2_predict import Llama2Predictor
 
 logging.basicConfig(level=logging.INFO)
 logging.getLogger().setLevel(logging.INFO)
-import os
 import random
 
 random.seed(42)
@@ -17,7 +16,14 @@ from pathlib import Path
 from Data_generation.templates import get_possible_answers
 
 from Predict.few_shots import *
-from utils import OPENAI_MODELS, T5_MODELS, get_prediction_output_files_names
+from utils import (
+    OPENAI_MODELS,
+    T5_MODELS,
+    FLAN_T5_MODELS,
+    LLAMA_CHAT_MODELS,
+    LLAMA_MODELS,
+    get_prediction_output_files_names,
+)
 
 
 def init_or_load_from_existing_predictions(
@@ -238,8 +244,17 @@ def generate_all_predictions(
             should_normalize,
             save_every_n_examples,
         )
-    else:
+    elif engine in T5_MODELS or engine in FLAN_T5_MODELS:
         predictor = T5Predictor(
+            bias_name,
+            engine,
+            max_tokens,
+            predict_according_to_log_probs,
+            should_normalize,
+            save_every_n_examples,
+        )
+    elif engine in LLAMA_MODELS or engine in LLAMA_CHAT_MODELS:
+        predictor = Llama2Predictor(
             bias_name,
             engine,
             max_tokens,

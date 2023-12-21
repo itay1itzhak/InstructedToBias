@@ -11,6 +11,8 @@ from utils import (
     FLAN_T5_MODELS,
     OPENAI_MODELS,
     T5_MODELS,
+    LLAMA_CHAT_MODELS,
+    LLAMA_MODELS,
     get_results_comments_name,
 )
 from Predict.predict import get_possible_answers
@@ -211,6 +213,10 @@ def check_for_undecided_answer(
 def find_ans_in_tokens(bias_name, all_tokens, all_log_probs, valid_options):
     model_ans = -1
     answer_log_prob = -float("inf")
+
+    # remove the explanation part (mainly llama2-chat answers)
+    if "Explanation:" in all_tokens:
+        all_tokens = all_tokens[: all_tokens.index("Explanation:")]
 
     # if long answer, reverse it since it's probably an explanation with an answer at the end (mainly GPT4 answers)
     if len(all_tokens) > 100:
@@ -511,6 +517,11 @@ def preprocess_predictions(prediction, engine):
     elif engine in FLAN_T5_MODELS:
         all_log_probs = list(prediction["metadata"]["log_probs"].values())
     elif engine in T5_MODELS:
+        all_log_probs = [prediction["metadata"]["log_probs"]]
+    elif engine in LLAMA_CHAT_MODELS:
+        # all_tokens = [t[0] for t in prediction["metadata"]["log_probs"]]
+        all_log_probs = [t[1] for t in prediction["metadata"]["log_probs"]]
+    elif engine in LLAMA_MODELS:
         all_log_probs = [prediction["metadata"]["log_probs"]]
     else:
         raise ValueError(f"Cannot find tokens or logprobs for {engine =}")

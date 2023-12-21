@@ -1,7 +1,6 @@
 from pathlib import Path
 import os
 
-
 INSTURCT_MODELS = [
     "text-davinci-002",
     "text-davinci-003",
@@ -11,6 +10,9 @@ INSTURCT_MODELS = [
     "flan-t5-large",
     "flan-t5-xl",
     "flan-t5-xxl",
+    "Llama-2-7b-chat",
+    "Llama-2-13b-chat",
+    "Llama-2-70b-chat",
 ]
 VANILLA_MODELS = [
     "davinci",
@@ -18,10 +20,14 @@ VANILLA_MODELS = [
     "t5-3b",
     "t5-v1_1-xl",
     "t5-v1_1-xxl",
+    "t5-v1_1-small",
     "llama_7B",
     "llama_13B",
     "llama-7b",
     "llama-13b",
+    "Llama-2-7b",
+    "Llama-2-13b",
+    "Llama-2-70b",
 ]
 
 OPENAI_MODELS = [
@@ -51,6 +57,18 @@ FLAN_T5_MODELS = [
     "flan-t5-large",
     "flan-t5-xl",
     "flan-t5-xxl",
+]
+
+LLAMA_MODELS = [
+    "Llama-2-7b",
+    "Llama-2-13b",
+    "Llama-2-70b",
+]
+
+LLAMA_CHAT_MODELS = [
+    "Llama-2-7b-chat",
+    "Llama-2-13b-chat",
+    "Llama-2-70b-chat",
 ]
 
 

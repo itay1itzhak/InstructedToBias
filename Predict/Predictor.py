@@ -1,3 +1,4 @@
+from abc import ABC, abstractmethod
 import time
 
 from Data_generation.templates import (
@@ -5,7 +6,7 @@ from Data_generation.templates import (
 )
 
 
-class Predictor:
+class Predictor(ABC):
     def __init__(
         self,
         bias_name,
@@ -43,5 +44,6 @@ class Predictor:
         else:
             self.base_probs = None
 
+    @abstractmethod
     def predict(self):
         raise NotImplementedError

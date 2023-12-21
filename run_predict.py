@@ -1,33 +1,11 @@
 import itertools
 import logging
 import argparse
+import os
 from Data_generation.templates import ALL_DECOY_PRODUCTS
 
 from Predict.predict import generate_all_predictions
-from utils import get_bias_type_templates_defaults
-
-# the following models are tuned on instructions and will predict according generated text
-INSTURCT_MODELS = [
-    "text-davinci-002",
-    "text-davinci-003",
-    "flan-t5-xl",
-    "flan-t5-xxl",
-    "flan-t5-small",
-    "gpt-4-0314",
-    "gpt-4",
-]
-
-# the following models are vanilla and will predict according to log probs
-VANILLA_MODELS = [
-    "davinci",
-    "t5-v1_1-small",
-    "t5-v1_1-xl",
-    "t5-v1_1-xxl",
-    "t5-11b",
-    "t5-small",
-    "llama-7b",
-    "llama-13b",
-]
+from utils import INSTURCT_MODELS, VANILLA_MODELS, get_bias_type_templates_defaults
 
 
 def set_experiment_args(
