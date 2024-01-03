@@ -97,6 +97,45 @@ def compute_decoy_bias_scores(pred_df, confidences, full_df):
     )
 
 
+def compute_certainty_mean_prob_per_choice(confidences):
+    choices_prob_mean = {
+        "Target mean Prob Treatment": round(
+            confidences[
+                (confidences["Condition"] == "Target is prize with certainty")
+                & (confidences["model_pred"] == "target")
+            ]["prob_mean"].mean()
+            * 100,
+            2,
+        ),
+        "Target mean Prob Control": round(
+            confidences[
+                (confidences["Condition"] == "Target is risky too")
+                & (confidences["model_pred"] == "target")
+            ]["prob_mean"].mean()
+            * 100,
+            2,
+        ),
+        "Non-Target mean Prob Treatment": round(
+            confidences[
+                (confidences["Condition"] == "Target is prize with certainty")
+                & (confidences["model_pred"] != "target")
+            ]["prob_mean"].mean()
+            * 100,
+            2,
+        ),
+        "Non-Target mean Prob Control": round(
+            confidences[
+                (confidences["Condition"] == "Target is risky too")
+                & (confidences["model_pred"] != "target")
+            ]["prob_mean"].mean()
+            * 100,
+            2,
+        ),
+    }
+
+    return choices_prob_mean
+
+
 def compute_certainty_bias_scores(pred_df, confidences, full_df):
     no_bias_target_score = pred_df[pred_df["Type"] == "Target is risky too"][
         "Target"
@@ -112,33 +151,17 @@ def compute_certainty_bias_scores(pred_df, confidences, full_df):
     ]["Undecided"].iloc[0]
     diff_score = round(certainty_bias_target_score - no_bias_target_score, 2)
     undecided_scores = {
-        "Undecided Bias Certainty": round(certainty_bias_undecided_score, 2),
-        "Undecided No Bias": round(no_bias_undecided_score, 2),
+        "Undecided Treatment Certainty": round(certainty_bias_undecided_score, 2),
+        "Undecided Control": round(no_bias_undecided_score, 2),
     }
 
-    target_prob_mean = {
-        "Target mean Prob Bias": round(
-            confidences[(confidences["Condition"] == "Target is prize with certainty")][
-                "prob_mean"
-            ].mean()
-            * 100,
-            2,
-        ),
-        "Target mean Prob No Bias": round(
-            confidences[(confidences["Condition"] == "Target is risky too")][
-                "prob_mean"
-            ].mean()
-            * 100,
-            2,
-        ),
-    }
-
+    choice_prob_mean = compute_certainty_mean_prob_per_choice(confidences)
     p_value = get_certainty_ttest(full_df)
 
     return (
         diff_score,
         undecided_scores,
-        target_prob_mean,
+        choice_prob_mean,
         p_value,
     )
 
@@ -276,12 +299,14 @@ def compute_false_belief_bias_scores(pred_df, confidences, full_df, comparing_di
 
     diff_scores = bias_scores["mean"]
 
+    full_df_without_undecided = full_df[full_df["Percentage"] != -1]
+
     update_undecided_scores(undecided_scores, pred_df)
-    ans_prob_mean = get_fb_ans_prob_mean(full_df)
+    ans_prob_mean = get_fb_ans_prob_mean(full_df_without_undecided)
     update_compare_dict_fb_bias_scores(comparing_dict, pred_df)
 
     diff_score = [round(v, 2) for v in diff_scores.values()]
-    p_value = get_false_belief_ttest(full_df)
+    p_value = get_false_belief_ttest(full_df_without_undecided)
 
     return (
         diff_score,

@@ -5,7 +5,11 @@ import re
 
 from Analysis.certainty_analysis import analyze_certainty_answer, get_certainty_results
 from Analysis.decoy_analysis import analyze_decoy_answer, get_decoy_results
-from Analysis.fb_analysis import analyze_false_belief, get_false_belief_results
+from Analysis.fb_analysis import (
+    analyze_false_belief,
+    check_for_more_than_one_token_answer,
+    get_false_belief_results,
+)
 
 from utils import (
     FLAN_T5_MODELS,
@@ -13,6 +17,8 @@ from utils import (
     T5_MODELS,
     LLAMA_CHAT_MODELS,
     LLAMA_MODELS,
+    MISTRAL_INSTRUCT_MODELS,
+    MISTRAL_MODELS,
     get_results_comments_name,
 )
 from Predict.predict import get_possible_answers
@@ -214,19 +220,22 @@ def find_ans_in_tokens(bias_name, all_tokens, all_log_probs, valid_options):
     model_ans = -1
     answer_log_prob = -float("inf")
 
+    all_tokens_to_go_over = all_tokens.copy()
     # remove the explanation part (mainly llama2-chat answers)
     if "Explanation:" in all_tokens:
-        all_tokens = all_tokens[: all_tokens.index("Explanation:")]
+        all_tokens_to_go_over = all_tokens_to_go_over[
+            : all_tokens_to_go_over.index("Explanation:")
+        ]
 
     # if long answer, reverse it since it's probably an explanation with an answer at the end (mainly GPT4 answers)
-    if len(all_tokens) > 100:
-        all_tokens = all_tokens[::-1]
+    if len(all_tokens_to_go_over) > 100:
+        all_tokens_to_go_over = all_tokens_to_go_over[::-1]
 
     # Select the appropriate options based on bias_name
     valid_options = ANSWERS_TOKENS.get(bias_name, {})
 
     # Find the answer in the tokens
-    for i, token in enumerate(all_tokens):
+    for i, token in enumerate(all_tokens_to_go_over):
         token = token.strip()
         # if token is a valid option
         if token in valid_options:
@@ -255,6 +264,21 @@ def get_model_ans(
 
     # check if the answer is an undecided answer
     if bias_name == "false_belief":
+        if "" in all_tokens:
+            first_line_index = all_tokens.index("")
+        else:
+            first_line_index = len(all_tokens)
+        first_line_model_ans, _ = find_ans_in_tokens(
+            bias_name,
+            all_tokens[:first_line_index],
+            all_log_probs,
+            valid_options=ANSWERS_TOKENS,
+        )
+        # if the answer is not a single token in the first line, check if it's few tokens
+        if first_line_model_ans == -1:
+            model_ans, answer_log_prob = check_for_more_than_one_token_answer(
+                all_tokens, answer_log_prob, model_ans, all_log_probs
+            )
         model_ans, answer_log_prob = check_for_undecided_answer(
             all_tokens, FB_UNDECIDED_ANSWERS, pred_id, model_ans, answer_log_prob
         )
@@ -500,6 +524,7 @@ def load_predictions(predictions_path, bias_name, conditions):
         logging.info(
             f"Could not load json!\npredictions_path={predictions_path}\nbias_name={bias_name}\nconditions={conditions}"
         )
+
         raise e
 
     logging.info(f"Extracting {len(preds_json)} Answers from file:{predictions_path}")
@@ -518,10 +543,13 @@ def preprocess_predictions(prediction, engine):
         all_log_probs = list(prediction["metadata"]["log_probs"].values())
     elif engine in T5_MODELS:
         all_log_probs = [prediction["metadata"]["log_probs"]]
-    elif engine in LLAMA_CHAT_MODELS:
+    elif engine in LLAMA_CHAT_MODELS or engine in MISTRAL_INSTRUCT_MODELS:
         # all_tokens = [t[0] for t in prediction["metadata"]["log_probs"]]
-        all_log_probs = [t[1] for t in prediction["metadata"]["log_probs"]]
-    elif engine in LLAMA_MODELS:
+        if type(prediction["metadata"]["log_probs"]) == type([]):
+            all_log_probs = [t[1] for t in prediction["metadata"]["log_probs"]]
+        else:
+            all_log_probs = [prediction["metadata"]["log_probs"]]
+    elif engine in LLAMA_MODELS or engine in MISTRAL_MODELS:
         all_log_probs = [prediction["metadata"]["log_probs"]]
     else:
         raise ValueError(f"Cannot find tokens or logprobs for {engine =}")

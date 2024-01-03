@@ -88,9 +88,16 @@ class Sample:
         template_text = self.get_template_text()
         result = None
         if self.bias_name == "decoy":
+            # hack for frying_pan
+            if "frying_pan" in self.values["product"]:
+                product = self.values["product"].replace("frying_pan", "frying pan")
+            else:
+                product = self.values["product"]
             if self.bias_type == Decoy_type.TWO_OPTIONS:
                 result = template_text.substitute(
-                    PRODUCT=self.values["product"].split("_")[0],
+                    PRODUCT=product.split("_")[
+                        0
+                    ],  # for _cheaper #self.values["product"].split("_")[0],
                     PRODUCT_TYPE=self.values["product_type"],
                     PRODUCT_TYPEs=self.values["product_type"] + "s",
                     PRODUCT_TYPE_UPPERCASE=self.values["product_type"][0].upper()
@@ -104,7 +111,7 @@ class Sample:
                 )
             else:
                 result = template_text.substitute(
-                    PRODUCT=self.values["product"].split("_")[0],
+                    PRODUCT=product.split("_")[0],
                     PRODUCT_TYPE=self.values["product_type"],
                     PRODUCT_TYPEs=self.values["product_type"] + "s",
                     PRODUCT_TYPE_UPPERCASE=self.values["product_type"][0].upper()

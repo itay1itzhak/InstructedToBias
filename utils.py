@@ -13,6 +13,7 @@ INSTURCT_MODELS = [
     "Llama-2-7b-chat",
     "Llama-2-13b-chat",
     "Llama-2-70b-chat",
+    "Mistral-7B-Instruct",
 ]
 VANILLA_MODELS = [
     "davinci",
@@ -28,6 +29,7 @@ VANILLA_MODELS = [
     "Llama-2-7b",
     "Llama-2-13b",
     "Llama-2-70b",
+    "Mistral-7B",
 ]
 
 OPENAI_MODELS = [
@@ -71,6 +73,14 @@ LLAMA_CHAT_MODELS = [
     "Llama-2-70b-chat",
 ]
 
+MISTRAL_MODELS = [
+    "Mistral-7B",
+]
+
+MISTRAL_INSTRUCT_MODELS = [
+    "Mistral-7B-Instruct",
+]
+
 
 def get_map_model_names():
     return {
@@ -90,6 +100,14 @@ def get_map_model_names():
         "flan-t5-large": "Flan-T5-Large",
         "flan-t5-xl": "Flan-T5-XL",
         "flan-t5-xxl": "Flan-T5-XXL",
+        "Llama-2-7b": "Llama-7B",
+        "Llama-2-13b": "Llama-13B",
+        "Llama-2-70b": "Llama-70B",
+        "Llama-2-7b-chat": "Llama-7B-Chat",
+        "Llama-2-13b-chat": "Llama-13B-Chat",
+        "Llama-2-70b-chat": "Llama-70B-Chat",
+        "Mistral-7B": "Mistral",
+        "Mistral-7B-Instruct": "Mistral-Inst",
     }
 
 

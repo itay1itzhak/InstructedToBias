@@ -4,7 +4,12 @@ import logging
 
 from Predict.open_ai_api import OpenAIPredictor
 from Predict.t5_predict import T5Predictor
-from Predict.llama2_predict import Llama2Predictor
+from Predict.llama2_predict import (
+    LLAMA_CHAT_PROMPT_FORMAT,
+    Llama2Predictor,
+    add_llama2_chat_prompt_format_to_input,
+)
+from Predict.mistral_predict import MistralPredictor
 
 logging.basicConfig(level=logging.INFO)
 logging.getLogger().setLevel(logging.INFO)
@@ -17,6 +22,8 @@ from Data_generation.templates import get_possible_answers
 
 from Predict.few_shots import *
 from utils import (
+    MISTRAL_INSTRUCT_MODELS,
+    MISTRAL_MODELS,
     OPENAI_MODELS,
     T5_MODELS,
     FLAN_T5_MODELS,
@@ -92,8 +99,24 @@ def update_progress(
         )
 
 
+def get_full_sample_with_few_shot_text(sample_text, few_shots_texts):
+    # prompt_few_shot_text = f"\n\n".join(few_shots_texts) + "\n\n"
+    prompt_few_shot_text = (
+        f"\n\n".join([shot["question"] + shot["answer"] for shot in few_shots_texts])
+        + "\n\n"
+    )
+
+    return prompt_few_shot_text + sample_text
+
+
 def load_bias_data(
-    bias_name, data_path, with_format_few_shot, with_task_few_shot, k_shot=2
+    bias_name,
+    engine,
+    predictor,
+    data_path,
+    with_format_few_shot,
+    with_task_few_shot,
+    k_shot=2,
 ):
     # if not with_format_few_shot and not with_task_few_shot:
     if with_format_few_shot or with_task_few_shot:
@@ -121,8 +144,20 @@ def load_bias_data(
                 all_values,
                 options,
             )
-            few_shot_text = "\n\n".join(few_shots_texts) + "\n\n"
-            e["text"] = few_shot_text + e["text"]
+            if engine in LLAMA_CHAT_MODELS or engine in MISTRAL_INSTRUCT_MODELS:
+                e["text"] = predictor.convert_to_chat_format(e["text"], few_shots_texts)
+            else:
+                # few_shot_text = f"\n\n".join(few_shots_texts) + "\n\n"
+                # e["text"] = few_shot_text + e["text"]
+                e["text"] = get_full_sample_with_few_shot_text(
+                    e["text"], few_shots_texts
+                )
+    # if 0-shot
+    else:
+        if engine in LLAMA_CHAT_MODELS or engine in MISTRAL_INSTRUCT_MODELS:
+            for e in examples.values():
+                e["text"] = predictor.convert_to_chat_format(e["text"])
+
     return examples
 
 
@@ -167,6 +202,56 @@ def save_to_predictions(predictions, id_, prediction, metadata, examples):
     predictions[id_]["human_or_right_answer"] = examples[id_]["human_or_right_answer"]
 
 
+def load_predictor(
+    bias_name,
+    engine,
+    max_tokens,
+    predict_according_to_log_probs,
+    should_normalize,
+    save_every_n_examples,
+):
+    if engine in OPENAI_MODELS:
+        predictor = OpenAIPredictor(
+            bias_name,
+            engine,
+            max_tokens,
+            predict_according_to_log_probs,
+            should_normalize,
+            save_every_n_examples,
+        )
+    elif engine in T5_MODELS or engine in FLAN_T5_MODELS:
+        predictor = T5Predictor(
+            bias_name,
+            engine,
+            max_tokens,
+            predict_according_to_log_probs,
+            should_normalize,
+            save_every_n_examples,
+        )
+    elif engine in LLAMA_MODELS or engine in LLAMA_CHAT_MODELS:
+        predictor = Llama2Predictor(
+            bias_name,
+            engine,
+            max_tokens,
+            predict_according_to_log_probs,
+            should_normalize,
+            save_every_n_examples,
+        )
+    elif engine in MISTRAL_MODELS or engine in MISTRAL_INSTRUCT_MODELS:
+        predictor = MistralPredictor(
+            bias_name,
+            engine,
+            max_tokens,
+            predict_according_to_log_probs,
+            should_normalize,
+            save_every_n_examples,
+        )
+    else:
+        raise ValueError(f"Unknown engine: {engine}")
+
+    return predictor
+
+
 def generate_all_predictions(
     bias_name: str,
     engine: str,
@@ -188,9 +273,23 @@ def generate_all_predictions(
     product="",
     all_options_permutations=False,
 ):
+    # set predictor mode for the prediction
+    predictor = load_predictor(
+        bias_name,
+        engine,
+        max_tokens,
+        predict_according_to_log_probs,
+        should_normalize,
+        save_every_n_examples,
+    )
+
+    predictor.set_parameters()
+
     # load data with few shot if needed
     examples = load_bias_data(
         bias_name,
+        engine,
+        predictor,
         data_path,
         with_format_few_shot,
         with_task_few_shot,
@@ -233,37 +332,6 @@ def generate_all_predictions(
         output_with_metadata_path,
         len(examples),
     )
-
-    # set predictor mode for the prediction
-    if engine in OPENAI_MODELS:
-        predictor = OpenAIPredictor(
-            bias_name,
-            engine,
-            max_tokens,
-            predict_according_to_log_probs,
-            should_normalize,
-            save_every_n_examples,
-        )
-    elif engine in T5_MODELS or engine in FLAN_T5_MODELS:
-        predictor = T5Predictor(
-            bias_name,
-            engine,
-            max_tokens,
-            predict_according_to_log_probs,
-            should_normalize,
-            save_every_n_examples,
-        )
-    elif engine in LLAMA_MODELS or engine in LLAMA_CHAT_MODELS:
-        predictor = Llama2Predictor(
-            bias_name,
-            engine,
-            max_tokens,
-            predict_according_to_log_probs,
-            should_normalize,
-            save_every_n_examples,
-        )
-
-    predictor.set_parameters()
 
     predictor.save_every_n_examples = min(save_every_n_examples, len(examples))
     for id_str in range(id_to_start_predictions_from, len(examples)):
@@ -405,7 +473,7 @@ def get_args():
         "--product",
         type=str,
         default="",
-        help="For decoy bias only. Could be beer, car or phone.",
+        help="For decoy bias only. Could be property, car, phone or frying_pan.",
     )
     parser.add_argument(
         "--all_options_permutations",

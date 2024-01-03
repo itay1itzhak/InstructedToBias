@@ -68,13 +68,17 @@ def set_experiment_args(
         "text-davinci-003",
     ]:
         experiment_args["save_every_n_examples"] = 100
-    # gpt4 is slow, so we save every 10 examples
-    elif experiment_args["engine"] in ["gpt-4-0314", "gpt-4"]:
-        experiment_args["save_every_n_examples"] = 10
-
+    # gpt4 and llama-2 are slow, so we save every 10 examples
+    # elif experiment_args["engine"] in [
+    #     "gpt-4-0314",
+    #     "gpt-4",
+    #     "Llama-2-7b",
+    #     "Llama-2-7b-chat",
+    # ]:
+    #     experiment_args["save_every_n_examples"] = 10
     # for everything else, we save every 1000 examples
     else:
-        experiment_args["save_every_n_examples"] = 1000
+        experiment_args["save_every_n_examples"] = 10
 
     return experiment_args
 

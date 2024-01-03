@@ -10,35 +10,31 @@ logging.getLogger().setLevel(logging.INFO)
 
 
 import os
-from transformers import LlamaTokenizer, LlamaForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
-LLAMA_CHAT_SYSTEM_MESSAGE = "You are a helpful assistant. Always answer shortly with your choice with no explanation."
-LLAMA_CHAT_PROMPT_FORMAT = {
-    "system_prompt": f"<s>[INST] <<SYS>>\n{LLAMA_CHAT_SYSTEM_MESSAGE}\n<</SYS>>\n\n",
-    "question_end": " [/INST]",
-    "answer_end": " </s><s>[INST] ",
-}
+MISTRAL_SYSTEM_MESSAGE = "You are a helpful assistant. Answer shortly with only your choice with no explanation.\n\n"
 
 
-class Llama2Predictor(HFPredictor):
+class MistralPredictor(HFPredictor):
     def load_model_and_tokenizer(
         self,
     ):
         model_name, _, cache_dir = self.set_device_and_cache_dir()
 
-        model_name = f"meta-llama/{model_name}-hf"
-        tokenizer = LlamaTokenizer.from_pretrained(model_name, cache_dir=cache_dir)
+        v = "v0.2" if "Instruct" in model_name else "v0.1"
+        model_name = f"mistralai/{model_name}-{v}"
+        tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=cache_dir)
         # load model
-        model = LlamaForCausalLM.from_pretrained(
+        model = AutoModelForCausalLM.from_pretrained(
             model_name,
             cache_dir=cache_dir,
             # device_map="auto",
             low_cpu_mem_usage=True,
-            torch_dtype=torch.float16,
+            # torch_dtype=torch.float16,
             # stop=["[INST]"],  # for chat model
         )
 
-        # add pad token for pretrained and chat models for batched label scoring
+        # add pad token for batched label scoring
         tokenizer.add_special_tokens({"pad_token": "<pad>"})
 
         # Resize token embeddings
@@ -48,6 +44,54 @@ class Llama2Predictor(HFPredictor):
         self.change_model_device(model)
         self.model = model
         self.tokenizer = tokenizer
+
+    def get_chat_format_one_side(self, text, role):
+        return {
+            "role": role,
+            "content": text,
+        }
+
+    def convert_to_chat_format(self, text, few_shots_texts=None):
+        """
+        Uses the apply_chat_template function in the tokenizer of the predictor to convert the text to chat format
+        """
+        # if there are no few shots, just add the system message to the text
+        if few_shots_texts is None:
+            messages = [
+                self.get_chat_format_one_side(MISTRAL_SYSTEM_MESSAGE + text, "user"),
+            ]
+        # if there are few shots, add the system message to the first shot
+
+        else:
+            # the first shot needs the system message before the text
+            messages = [
+                self.get_chat_format_one_side(
+                    MISTRAL_SYSTEM_MESSAGE + few_shots_texts[0]["question"], "user"
+                ),
+                self.get_chat_format_one_side(
+                    few_shots_texts[0]["answer"], "assistant"
+                ),
+            ]
+
+            # after that, add all the other shot in the user and assistent format
+            for shot in few_shots_texts[1:]:
+                messages.extend(
+                    [
+                        self.get_chat_format_one_side(shot["question"], "user"),
+                        self.get_chat_format_one_side(shot["answer"], "assistant"),
+                    ]
+                )
+
+            # finaly, add the actual text to the user
+            messages.append(self.get_chat_format_one_side(text, "user"))
+
+        prompt = self.tokenizer.apply_chat_template(
+            messages,
+            tokenize=False,
+            add_generation_prompt=True,  # , return_tensors="pt"
+        )
+
+        return prompt
 
     def get_scores_for_labels(self, input, labels):
         # concat labels to the corrposnded input text
@@ -92,45 +136,19 @@ class Llama2Predictor(HFPredictor):
         return labels_scores
 
     def get_generated_prediction(self, prompt):
-        # prepare prompt for chat model, according to huggingface.co/blog/llama2
-        # prompt = (
-        #     LLAMA_CHAT_SYSTEM_PROMPT["beginning"]
-        #     + prompt
-        #     + LLAMA_CHAT_SYSTEM_PROMPT["end"]
-        # )
+        # tokenize input
+        input_tokenized = self.tokenizer(
+            prompt,
+            return_tensors="pt",
+            add_special_tokens=False,
+        )["input_ids"]
 
-        # TODO: currently for 0-shot only!
-        messages = [
-            {
-                "role": "system",
-                "content": LLAMA_CHAT_SYSTEM_MESSAGE,
-            },
-            {
-                "role": "user",
-                "content": prompt,
-            },
-        ]
-        input_tokenized = self.tokenizer.apply_chat_template(
-            messages, tokenize=True, add_generation_prompt=True, return_tensors="pt"
-        )
-        # input_tokenized = self.tokenizer(
-        #     prompt,
-        #     return_tensors="pt",
-        # )
         if torch.cuda.is_available():
             input_tokenized = input_tokenized.to(self.model.device)
 
-        # TODO: changed for chat 0-shot
-        # outputs = self.model.generate(
-        #     **input_tokenized,
-        #     # max_new_tokens=5,
-        #     return_dict_in_generate=True,
-        #     output_scores=True,
-        #     do_sample=False,
-        # )
         outputs = self.model.generate(
             input_tokenized,
-            # max_new_tokens=5,
+            max_new_tokens=200,
             return_dict_in_generate=True,
             output_scores=True,
             do_sample=False,
@@ -139,9 +157,10 @@ class Llama2Predictor(HFPredictor):
             outputs.sequences, outputs.scores, normalize_logits=True
         )
 
-        # input_length = input_tokenized.input_ids.shape[1]
+        # get the generated tokens
         input_length = input_tokenized.shape[1]
         generated_tokens = outputs.sequences[:, input_length:]
+
         # decode the generated tokens
         generated_tokens_decoded = self.tokenizer.batch_decode(
             generated_tokens, skip_special_tokens=True
@@ -153,12 +172,3 @@ class Llama2Predictor(HFPredictor):
         ]
 
         return generated_tokens_decoded[0].strip().strip("."), logits
-
-
-def add_llama2_chat_prompt_format_to_input(examples):
-    for e in examples.values():
-        e["text"] = (
-            LLAMA_CHAT_PROMPT_FORMAT["system_prompt"]
-            + e["text"]
-            + LLAMA_CHAT_PROMPT_FORMAT["question_end"]
-        )

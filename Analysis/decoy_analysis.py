@@ -149,14 +149,17 @@ def analyze_decoy_answer(
     # similar samples are identified by  having the same following features:
     sample_id = frozenset(
         (
-            cur_sample["metadata"]["product"],
-            cur_sample["metadata"]["quality_measurment"],
-            cur_sample["metadata"]["price1"],
-            cur_sample["metadata"]["price2"],
-            cur_sample["metadata"]["price3"],
-            cur_sample["metadata"]["quality1"],
-            cur_sample["metadata"]["quality2"],
-            cur_sample["metadata"]["quality3"],
+            # cur_sample["metadata"]["product"],
+            # cur_sample["metadata"]["quality_measurment"],
+            # "price1" + str(cur_sample["metadata"]["price1"]),
+            # "price2" + str(cur_sample["metadata"]["price2"]),
+            # "price3" + str(cur_sample["metadata"]["price3"]),
+            # "quality1" + str(cur_sample["metadata"]["quality1"]),
+            # "quality2" + str(cur_sample["metadata"]["quality2"]),
+            # "quality3" + str(cur_sample["metadata"]["quality3"]),
+            # "template" + str(cur_sample["metadata"]["template"]),
+            "permutation_id"
+            + str(cur_sample["metadata"]["permutation_id"]),
         )
     )
 

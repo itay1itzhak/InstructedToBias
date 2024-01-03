@@ -20,7 +20,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 40.\nBrand 2 - price is $59.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 40.\nBrand 2 - price is $59.99, quality rating is 60.\nAnswer:"
     },
     "1": {
         "product": "frying_pan",
@@ -43,7 +43,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 60.\nBrand 2 - price is $9.99, quality rating is 40.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 60.\nBrand 2 - price is $9.99, quality rating is 40.\nAnswer:"
     },
     "2": {
         "product": "frying_pan",
@@ -66,7 +66,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 50.\nBrand 2 - price is $59.99, quality rating is 70.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 50.\nBrand 2 - price is $59.99, quality rating is 70.\nAnswer:"
     },
     "3": {
         "product": "frying_pan",
@@ -89,7 +89,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 70.\nBrand 2 - price is $9.99, quality rating is 50.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 70.\nBrand 2 - price is $9.99, quality rating is 50.\nAnswer:"
     },
     "4": {
         "product": "frying_pan",
@@ -112,7 +112,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 60.\nBrand 2 - price is $59.99, quality rating is 80.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $9.99, quality rating is 60.\nBrand 2 - price is $59.99, quality rating is 80.\nAnswer:"
     },
     "5": {
         "product": "frying_pan",
@@ -135,7 +135,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 80.\nBrand 2 - price is $9.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $59.99, quality rating is 80.\nBrand 2 - price is $9.99, quality rating is 60.\nAnswer:"
     },
     "6": {
         "product": "frying_pan",
@@ -158,7 +158,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 40.\nBrand 2 - price is $99.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 40.\nBrand 2 - price is $99.99, quality rating is 60.\nAnswer:"
     },
     "7": {
         "product": "frying_pan",
@@ -181,7 +181,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 60.\nBrand 2 - price is $19.99, quality rating is 40.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 60.\nBrand 2 - price is $19.99, quality rating is 40.\nAnswer:"
     },
     "8": {
         "product": "frying_pan",
@@ -204,7 +204,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 50.\nBrand 2 - price is $99.99, quality rating is 70.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 50.\nBrand 2 - price is $99.99, quality rating is 70.\nAnswer:"
     },
     "9": {
         "product": "frying_pan",
@@ -227,7 +227,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 70.\nBrand 2 - price is $19.99, quality rating is 50.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 70.\nBrand 2 - price is $19.99, quality rating is 50.\nAnswer:"
     },
     "10": {
         "product": "frying_pan",
@@ -250,7 +250,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 60.\nBrand 2 - price is $99.99, quality rating is 80.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $19.99, quality rating is 60.\nBrand 2 - price is $99.99, quality rating is 80.\nAnswer:"
     },
     "11": {
         "product": "frying_pan",
@@ -273,7 +273,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 80.\nBrand 2 - price is $19.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $99.99, quality rating is 80.\nBrand 2 - price is $19.99, quality rating is 60.\nAnswer:"
     },
     "12": {
         "product": "frying_pan",
@@ -296,7 +296,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 40.\nBrand 2 - price is $139.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 40.\nBrand 2 - price is $139.99, quality rating is 60.\nAnswer:"
     },
     "13": {
         "product": "frying_pan",
@@ -319,7 +319,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 60.\nBrand 2 - price is $29.99, quality rating is 40.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 60.\nBrand 2 - price is $29.99, quality rating is 40.\nAnswer:"
     },
     "14": {
         "product": "frying_pan",
@@ -342,7 +342,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 50.\nBrand 2 - price is $139.99, quality rating is 70.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 50.\nBrand 2 - price is $139.99, quality rating is 70.\nAnswer:"
     },
     "15": {
         "product": "frying_pan",
@@ -365,7 +365,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 70.\nBrand 2 - price is $29.99, quality rating is 50.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 70.\nBrand 2 - price is $29.99, quality rating is 50.\nAnswer:"
     },
     "16": {
         "product": "frying_pan",
@@ -388,7 +388,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 60.\nBrand 2 - price is $139.99, quality rating is 80.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $29.99, quality rating is 60.\nBrand 2 - price is $139.99, quality rating is 80.\nAnswer:"
     },
     "17": {
         "product": "frying_pan",
@@ -411,7 +411,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 80.\nBrand 2 - price is $29.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $139.99, quality rating is 80.\nBrand 2 - price is $29.99, quality rating is 60.\nAnswer:"
     },
     "18": {
         "product": "frying_pan",
@@ -434,7 +434,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 40.\nBrand 2 - price is $179.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 40.\nBrand 2 - price is $179.99, quality rating is 60.\nAnswer:"
     },
     "19": {
         "product": "frying_pan",
@@ -457,7 +457,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 60.\nBrand 2 - price is $39.99, quality rating is 40.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 60.\nBrand 2 - price is $39.99, quality rating is 40.\nAnswer:"
     },
     "20": {
         "product": "frying_pan",
@@ -480,7 +480,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 50.\nBrand 2 - price is $179.99, quality rating is 70.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 50.\nBrand 2 - price is $179.99, quality rating is 70.\nAnswer:"
     },
     "21": {
         "product": "frying_pan",
@@ -503,7 +503,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 70.\nBrand 2 - price is $39.99, quality rating is 50.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 70.\nBrand 2 - price is $39.99, quality rating is 50.\nAnswer:"
     },
     "22": {
         "product": "frying_pan",
@@ -526,7 +526,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 60.\nBrand 2 - price is $179.99, quality rating is 80.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $39.99, quality rating is 60.\nBrand 2 - price is $179.99, quality rating is 80.\nAnswer:"
     },
     "23": {
         "product": "frying_pan",
@@ -549,7 +549,7 @@
         "bias_name": "decoy",
         "template": 1,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 80.\nBrand 2 - price is $39.99, quality rating is 60.\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nBrand 1 - price is $179.99, quality rating is 80.\nBrand 2 - price is $39.99, quality rating is 60.\nAnswer:"
     },
     "24": {
         "product": "frying_pan",
@@ -572,7 +572,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 40.\nBrand 2 - price is $59.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 40.\nBrand 2 - price is $59.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "25": {
         "product": "frying_pan",
@@ -595,7 +595,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 60.\nBrand 2 - price is $9.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 60.\nBrand 2 - price is $9.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "26": {
         "product": "frying_pan",
@@ -618,7 +618,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 50.\nBrand 2 - price is $59.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 50.\nBrand 2 - price is $59.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "27": {
         "product": "frying_pan",
@@ -641,7 +641,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 70.\nBrand 2 - price is $9.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 70.\nBrand 2 - price is $9.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "28": {
         "product": "frying_pan",
@@ -664,7 +664,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 60.\nBrand 2 - price is $59.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $9.99, quality rating is 60.\nBrand 2 - price is $59.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "29": {
         "product": "frying_pan",
@@ -687,7 +687,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 80.\nBrand 2 - price is $9.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $59.99, quality rating is 80.\nBrand 2 - price is $9.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "30": {
         "product": "frying_pan",
@@ -710,7 +710,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 40.\nBrand 2 - price is $99.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 40.\nBrand 2 - price is $99.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "31": {
         "product": "frying_pan",
@@ -733,7 +733,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 60.\nBrand 2 - price is $19.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 60.\nBrand 2 - price is $19.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "32": {
         "product": "frying_pan",
@@ -756,7 +756,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 50.\nBrand 2 - price is $99.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 50.\nBrand 2 - price is $99.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "33": {
         "product": "frying_pan",
@@ -779,7 +779,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 70.\nBrand 2 - price is $19.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 70.\nBrand 2 - price is $19.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "34": {
         "product": "frying_pan",
@@ -802,7 +802,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 60.\nBrand 2 - price is $99.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $19.99, quality rating is 60.\nBrand 2 - price is $99.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "35": {
         "product": "frying_pan",
@@ -825,7 +825,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 80.\nBrand 2 - price is $19.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $99.99, quality rating is 80.\nBrand 2 - price is $19.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "36": {
         "product": "frying_pan",
@@ -848,7 +848,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 40.\nBrand 2 - price is $139.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 40.\nBrand 2 - price is $139.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "37": {
         "product": "frying_pan",
@@ -871,7 +871,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 60.\nBrand 2 - price is $29.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 60.\nBrand 2 - price is $29.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "38": {
         "product": "frying_pan",
@@ -894,7 +894,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 50.\nBrand 2 - price is $139.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 50.\nBrand 2 - price is $139.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "39": {
         "product": "frying_pan",
@@ -917,7 +917,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 70.\nBrand 2 - price is $29.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 70.\nBrand 2 - price is $29.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "40": {
         "product": "frying_pan",
@@ -940,7 +940,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 60.\nBrand 2 - price is $139.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $29.99, quality rating is 60.\nBrand 2 - price is $139.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "41": {
         "product": "frying_pan",
@@ -963,7 +963,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 80.\nBrand 2 - price is $29.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $139.99, quality rating is 80.\nBrand 2 - price is $29.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "42": {
         "product": "frying_pan",
@@ -986,7 +986,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 40.\nBrand 2 - price is $179.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 40.\nBrand 2 - price is $179.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "43": {
         "product": "frying_pan",
@@ -1009,7 +1009,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 60.\nBrand 2 - price is $39.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 60.\nBrand 2 - price is $39.99, quality rating is 40.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "44": {
         "product": "frying_pan",
@@ -1032,7 +1032,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 50.\nBrand 2 - price is $179.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 50.\nBrand 2 - price is $179.99, quality rating is 70.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "45": {
         "product": "frying_pan",
@@ -1055,7 +1055,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 70.\nBrand 2 - price is $39.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 70.\nBrand 2 - price is $39.99, quality rating is 50.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "46": {
         "product": "frying_pan",
@@ -1078,7 +1078,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 60.\nBrand 2 - price is $179.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $39.99, quality rating is 60.\nBrand 2 - price is $179.99, quality rating is 80.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "47": {
         "product": "frying_pan",
@@ -1101,7 +1101,7 @@
         "bias_name": "decoy",
         "template": 2,
         "with_bias": false,
-        "text": "Below you will find two frying brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 80.\nBrand 2 - price is $39.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
+        "text": "Below you will find two frying pan brands.\nYou know only the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = worst).\nBrand 1 - price is $179.99, quality rating is 80.\nBrand 2 - price is $39.99, quality rating is 60.\nGiven that you had to choose one brand to buy on this information alone, which one would it be?\nAnswer:"
     },
     "48": {
         "product": "frying_pan",
@@ -1124,7 +1124,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 40.\nBrand 2 - price is $59.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 40.\nBrand 2 - price is $59.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "49": {
         "product": "frying_pan",
@@ -1147,7 +1147,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 60.\nBrand 2 - price is $9.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 60.\nBrand 2 - price is $9.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "50": {
         "product": "frying_pan",
@@ -1170,7 +1170,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 50.\nBrand 2 - price is $59.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 50.\nBrand 2 - price is $59.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "51": {
         "product": "frying_pan",
@@ -1193,7 +1193,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 70.\nBrand 2 - price is $9.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 70.\nBrand 2 - price is $9.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "52": {
         "product": "frying_pan",
@@ -1216,7 +1216,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 60.\nBrand 2 - price is $59.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $9.99, and the quality rating is 60.\nBrand 2 - price is $59.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "53": {
         "product": "frying_pan",
@@ -1239,7 +1239,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 80.\nBrand 2 - price is $9.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $59.99, and the quality rating is 80.\nBrand 2 - price is $9.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "54": {
         "product": "frying_pan",
@@ -1262,7 +1262,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 40.\nBrand 2 - price is $99.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 40.\nBrand 2 - price is $99.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "55": {
         "product": "frying_pan",
@@ -1285,7 +1285,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 60.\nBrand 2 - price is $19.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 60.\nBrand 2 - price is $19.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "56": {
         "product": "frying_pan",
@@ -1308,7 +1308,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 50.\nBrand 2 - price is $99.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 50.\nBrand 2 - price is $99.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "57": {
         "product": "frying_pan",
@@ -1331,7 +1331,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 70.\nBrand 2 - price is $19.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 70.\nBrand 2 - price is $19.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "58": {
         "product": "frying_pan",
@@ -1354,7 +1354,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 60.\nBrand 2 - price is $99.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $19.99, and the quality rating is 60.\nBrand 2 - price is $99.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "59": {
         "product": "frying_pan",
@@ -1377,7 +1377,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 80.\nBrand 2 - price is $19.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $99.99, and the quality rating is 80.\nBrand 2 - price is $19.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "60": {
         "product": "frying_pan",
@@ -1400,7 +1400,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 40.\nBrand 2 - price is $139.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 40.\nBrand 2 - price is $139.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "61": {
         "product": "frying_pan",
@@ -1423,7 +1423,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 60.\nBrand 2 - price is $29.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 60.\nBrand 2 - price is $29.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "62": {
         "product": "frying_pan",
@@ -1446,7 +1446,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 50.\nBrand 2 - price is $139.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 50.\nBrand 2 - price is $139.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "63": {
         "product": "frying_pan",
@@ -1469,7 +1469,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 70.\nBrand 2 - price is $29.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 70.\nBrand 2 - price is $29.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "64": {
         "product": "frying_pan",
@@ -1492,7 +1492,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 60.\nBrand 2 - price is $139.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $29.99, and the quality rating is 60.\nBrand 2 - price is $139.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "65": {
         "product": "frying_pan",
@@ -1515,7 +1515,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 80.\nBrand 2 - price is $29.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $139.99, and the quality rating is 80.\nBrand 2 - price is $29.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "66": {
         "product": "frying_pan",
@@ -1538,7 +1538,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 40.\nBrand 2 - price is $179.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 40.\nBrand 2 - price is $179.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "67": {
         "product": "frying_pan",
@@ -1561,7 +1561,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 60.\nBrand 2 - price is $39.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 60.\nBrand 2 - price is $39.99, and the quality rating is 40.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "68": {
         "product": "frying_pan",
@@ -1584,7 +1584,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 50.\nBrand 2 - price is $179.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 50.\nBrand 2 - price is $179.99, and the quality rating is 70.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "69": {
         "product": "frying_pan",
@@ -1607,7 +1607,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 70.\nBrand 2 - price is $39.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 70.\nBrand 2 - price is $39.99, and the quality rating is 50.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "70": {
         "product": "frying_pan",
@@ -1630,7 +1630,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 60.\nBrand 2 - price is $179.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $39.99, and the quality rating is 60.\nBrand 2 - price is $179.99, and the quality rating is 80.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "71": {
         "product": "frying_pan",
@@ -1653,7 +1653,7 @@
         "bias_name": "decoy",
         "template": 3,
         "with_bias": false,
-        "text": "The following are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 80.\nBrand 2 - price is $39.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
+        "text": "The following are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nBrand 1 - price is $179.99, and the quality rating is 80.\nBrand 2 - price is $39.99, and the quality rating is 60.\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nAnswer:"
     },
     "72": {
         "product": "frying_pan",
@@ -1676,7 +1676,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 40.\nBrand 2 - price is $59.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 40.\nBrand 2 - price is $59.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "73": {
         "product": "frying_pan",
@@ -1699,7 +1699,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 60.\nBrand 2 - price is $9.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 60.\nBrand 2 - price is $9.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
     },
     "74": {
         "product": "frying_pan",
@@ -1722,7 +1722,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 50.\nBrand 2 - price is $59.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 50.\nBrand 2 - price is $59.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
     },
     "75": {
         "product": "frying_pan",
@@ -1745,7 +1745,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 70.\nBrand 2 - price is $9.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 70.\nBrand 2 - price is $9.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
     },
     "76": {
         "product": "frying_pan",
@@ -1768,7 +1768,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 60.\nBrand 2 - price is $59.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $9.99, and the quality rating is 60.\nBrand 2 - price is $59.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
     },
     "77": {
         "product": "frying_pan",
@@ -1791,7 +1791,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 80.\nBrand 2 - price is $9.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $59.99, and the quality rating is 80.\nBrand 2 - price is $9.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "78": {
         "product": "frying_pan",
@@ -1814,7 +1814,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 40.\nBrand 2 - price is $99.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 40.\nBrand 2 - price is $99.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "79": {
         "product": "frying_pan",
@@ -1837,7 +1837,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 60.\nBrand 2 - price is $19.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 60.\nBrand 2 - price is $19.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
     },
     "80": {
         "product": "frying_pan",
@@ -1860,7 +1860,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 50.\nBrand 2 - price is $99.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 50.\nBrand 2 - price is $99.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
     },
     "81": {
         "product": "frying_pan",
@@ -1883,7 +1883,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 70.\nBrand 2 - price is $19.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 70.\nBrand 2 - price is $19.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
     },
     "82": {
         "product": "frying_pan",
@@ -1906,7 +1906,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 60.\nBrand 2 - price is $99.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $19.99, and the quality rating is 60.\nBrand 2 - price is $99.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
     },
     "83": {
         "product": "frying_pan",
@@ -1929,7 +1929,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 80.\nBrand 2 - price is $19.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $99.99, and the quality rating is 80.\nBrand 2 - price is $19.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "84": {
         "product": "frying_pan",
@@ -1952,7 +1952,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 40.\nBrand 2 - price is $139.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 40.\nBrand 2 - price is $139.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "85": {
         "product": "frying_pan",
@@ -1975,7 +1975,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 60.\nBrand 2 - price is $29.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 60.\nBrand 2 - price is $29.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
     },
     "86": {
         "product": "frying_pan",
@@ -1998,7 +1998,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 50.\nBrand 2 - price is $139.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 50.\nBrand 2 - price is $139.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
     },
     "87": {
         "product": "frying_pan",
@@ -2021,7 +2021,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 70.\nBrand 2 - price is $29.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 70.\nBrand 2 - price is $29.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
     },
     "88": {
         "product": "frying_pan",
@@ -2044,7 +2044,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 60.\nBrand 2 - price is $139.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $29.99, and the quality rating is 60.\nBrand 2 - price is $139.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
     },
     "89": {
         "product": "frying_pan",
@@ -2067,7 +2067,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 80.\nBrand 2 - price is $29.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $139.99, and the quality rating is 80.\nBrand 2 - price is $29.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "90": {
         "product": "frying_pan",
@@ -2090,7 +2090,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 40.\nBrand 2 - price is $179.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 40.\nBrand 2 - price is $179.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     },
     "91": {
         "product": "frying_pan",
@@ -2113,7 +2113,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 60.\nBrand 2 - price is $39.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 60.\nBrand 2 - price is $39.99, and the quality rating is 40.\nThe brand I would choose would be:\nAnswer:"
     },
     "92": {
         "product": "frying_pan",
@@ -2136,7 +2136,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 50.\nBrand 2 - price is $179.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 50.\nBrand 2 - price is $179.99, and the quality rating is 70.\nThe brand I would choose would be:\nAnswer:"
     },
     "93": {
         "product": "frying_pan",
@@ -2159,7 +2159,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 70.\nBrand 2 - price is $39.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 70.\nBrand 2 - price is $39.99, and the quality rating is 50.\nThe brand I would choose would be:\nAnswer:"
     },
     "94": {
         "product": "frying_pan",
@@ -2182,7 +2182,7 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 60.\nBrand 2 - price is $179.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $39.99, and the quality rating is 60.\nBrand 2 - price is $179.99, and the quality rating is 80.\nThe brand I would choose would be:\nAnswer:"
     },
     "95": {
         "product": "frying_pan",
@@ -2205,6 +2205,6 @@
         "bias_name": "decoy",
         "template": 4,
         "with_bias": false,
-        "text": "Here are two frying brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 80.\nBrand 2 - price is $39.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
+        "text": "Here are two frying pan brands.\nThe only details you know are the price per frying pan and the average quality rating made by professional chefs (100 = best, 0 = awful).\nIn the event that you had to make a decision based solely on the information presented here, which would be the brand you would buy?\nBrand 1 - price is $179.99, and the quality rating is 80.\nBrand 2 - price is $39.99, and the quality rating is 60.\nThe brand I would choose would be:\nAnswer:"
     }
 }

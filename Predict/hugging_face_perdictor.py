@@ -71,9 +71,8 @@ class HFPredictor(Predictor):
         return model_name, device, cache_dir
 
     def change_model_device(self, model):
-        if torch.cuda.is_available():
-            model.to("cuda")
-            print(f"{model.device=}")
+        # if torch.cuda.is_available():
+        #    model.to("cuda")
         if "cpu" in str(model.device):
             print(f"NO GPU! {model.device=}")
         else:
