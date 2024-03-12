@@ -9136,7 +9136,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
     },
     "481": {
         "premise_1": "All flogers wobars are shnesive",
@@ -9155,7 +9155,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
     },
     "482": {
         "premise_1": "No guztan wobars are shnesive",
@@ -9174,7 +9174,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
     },
     "483": {
         "premise_1": "All flogers wobars are shnesive",
@@ -9193,7 +9193,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
     },
     "484": {
         "premise_1": "No guztan wobars are shnesive",
@@ -9212,7 +9212,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "485": {
         "premise_1": "All flogers wobars are guztan wobars",
@@ -9231,7 +9231,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "486": {
         "premise_1": "No guztan wobars are shnesive",
@@ -9250,7 +9250,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "487": {
         "premise_1": "All flogers wobars are guztan wobars",
@@ -9269,7 +9269,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "488": {
         "premise_1": "No guztan wobars are flogers wobars",
@@ -9288,7 +9288,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
     },
     "489": {
         "premise_1": "All flogers wobars are shnesive",
@@ -9307,7 +9307,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
     },
     "490": {
         "premise_1": "No guztan wobars are flogers wobars",
@@ -9326,7 +9326,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "491": {
         "premise_1": "All flogers wobars are shnesive",
@@ -9345,7 +9345,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "492": {
         "premise_1": "No guztan wobars are shnesive",
@@ -9364,7 +9364,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "493": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -9383,7 +9383,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "494": {
         "premise_1": "No guztan wobars are shnesive",
@@ -9402,7 +9402,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "495": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -9421,7 +9421,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "496": {
         "premise_1": "No storf things are thip",
@@ -9440,7 +9440,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
     },
     "497": {
         "premise_1": "All terg blobs are thip",
@@ -9459,7 +9459,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
     },
     "498": {
         "premise_1": "No storf things are thip",
@@ -9478,7 +9478,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
     },
     "499": {
         "premise_1": "All terg blobs are thip",
@@ -9497,7 +9497,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
     },
     "500": {
         "premise_1": "No storf things are thip",
@@ -9516,7 +9516,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "501": {
         "premise_1": "All terg blobs are storf things",
@@ -9535,7 +9535,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "502": {
         "premise_1": "No storf things are thip",
@@ -9554,7 +9554,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "503": {
         "premise_1": "All terg blobs are storf things",
@@ -9573,7 +9573,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "504": {
         "premise_1": "No storf things are terg blobs",
@@ -9592,7 +9592,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nAnswer:"
     },
     "505": {
         "premise_1": "All terg blobs are thip",
@@ -9611,7 +9611,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nAnswer:"
     },
     "506": {
         "premise_1": "No storf things are terg blobs",
@@ -9630,7 +9630,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "507": {
         "premise_1": "All terg blobs are thip",
@@ -9649,7 +9649,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "508": {
         "premise_1": "No storf things are thip",
@@ -9668,7 +9668,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "509": {
         "premise_1": "All storf things are terg blobs",
@@ -9687,7 +9687,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "510": {
         "premise_1": "No storf things are thip",
@@ -9706,7 +9706,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "511": {
         "premise_1": "All storf things are terg blobs",
@@ -9725,7 +9725,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "512": {
         "premise_1": "No geck things are confive",
@@ -9744,7 +9744,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nAnswer:"
     },
     "513": {
         "premise_1": "All blurst are confive",
@@ -9763,7 +9763,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nAnswer:"
     },
     "514": {
         "premise_1": "No geck things are confive",
@@ -9782,7 +9782,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
     },
     "515": {
         "premise_1": "All blurst are confive",
@@ -9801,7 +9801,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
     },
     "516": {
         "premise_1": "No geck things are confive",
@@ -9820,7 +9820,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "517": {
         "premise_1": "All blurst are geck things",
@@ -9839,7 +9839,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "518": {
         "premise_1": "No geck things are confive",
@@ -9858,7 +9858,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "519": {
         "premise_1": "All blurst are geck things",
@@ -9877,7 +9877,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "520": {
         "premise_1": "No geck things are blurst",
@@ -9896,7 +9896,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nAnswer:"
     },
     "521": {
         "premise_1": "All blurst are confive",
@@ -9915,7 +9915,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nAnswer:"
     },
     "522": {
         "premise_1": "No geck things are blurst",
@@ -9934,7 +9934,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "523": {
         "premise_1": "All blurst are confive",
@@ -9953,7 +9953,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "524": {
         "premise_1": "No geck things are confive",
@@ -9972,7 +9972,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "525": {
         "premise_1": "All geck things are blurst",
@@ -9991,7 +9991,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "526": {
         "premise_1": "No geck things are confive",
@@ -10010,7 +10010,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "527": {
         "premise_1": "All geck things are blurst",
@@ -10029,7 +10029,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "528": {
         "premise_1": "Some guztan wobars are shnesive",
@@ -10048,7 +10048,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
     },
     "529": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10067,7 +10067,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
     },
     "530": {
         "premise_1": "Some guztan wobars are shnesive",
@@ -10086,7 +10086,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "531": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10105,7 +10105,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "532": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -10124,7 +10124,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "533": {
         "premise_1": "All shnesive are guztan wobars",
@@ -10143,7 +10143,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "534": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -10162,7 +10162,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "535": {
         "premise_1": "All shnesive are guztan wobars",
@@ -10181,7 +10181,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "536": {
         "premise_1": "Some flogers wobars are shnesive",
@@ -10200,7 +10200,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
     },
     "537": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10219,7 +10219,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
     },
     "538": {
         "premise_1": "Some flogers wobars are shnesive",
@@ -10238,7 +10238,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "539": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10257,7 +10257,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "540": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -10276,7 +10276,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "541": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10295,7 +10295,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "542": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -10314,7 +10314,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "543": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -10333,7 +10333,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "544": {
         "premise_1": "Some storf things are thip",
@@ -10352,7 +10352,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nAnswer:"
     },
     "545": {
         "premise_1": "All storf things are terg blobs",
@@ -10371,7 +10371,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nAnswer:"
     },
     "546": {
         "premise_1": "Some storf things are thip",
@@ -10390,7 +10390,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "547": {
         "premise_1": "All storf things are terg blobs",
@@ -10409,7 +10409,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "548": {
         "premise_1": "No terg blobs are storf things",
@@ -10428,7 +10428,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "549": {
         "premise_1": "All thip are storf things",
@@ -10447,7 +10447,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "550": {
         "premise_1": "No terg blobs are storf things",
@@ -10466,7 +10466,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "551": {
         "premise_1": "All thip are storf things",
@@ -10485,7 +10485,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "552": {
         "premise_1": "Some terg blobs are thip",
@@ -10504,7 +10504,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nAnswer:"
     },
     "553": {
         "premise_1": "All storf things are terg blobs",
@@ -10523,7 +10523,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nAnswer:"
     },
     "554": {
         "premise_1": "Some terg blobs are thip",
@@ -10542,7 +10542,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "555": {
         "premise_1": "All storf things are terg blobs",
@@ -10561,7 +10561,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "556": {
         "premise_1": "No terg blobs are storf things",
@@ -10580,7 +10580,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "557": {
         "premise_1": "All storf things are terg blobs",
@@ -10599,7 +10599,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "558": {
         "premise_1": "No terg blobs are storf things",
@@ -10618,7 +10618,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "559": {
         "premise_1": "All storf things are terg blobs",
@@ -10637,7 +10637,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "560": {
         "premise_1": "Some geck things are confive",
@@ -10656,7 +10656,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nAnswer:"
     },
     "561": {
         "premise_1": "All geck things are blurst",
@@ -10675,7 +10675,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nAnswer:"
     },
     "562": {
         "premise_1": "Some geck things are confive",
@@ -10694,7 +10694,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "563": {
         "premise_1": "All geck things are blurst",
@@ -10713,7 +10713,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "564": {
         "premise_1": "No blurst are geck things",
@@ -10732,7 +10732,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "565": {
         "premise_1": "All confive are geck things",
@@ -10751,7 +10751,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "566": {
         "premise_1": "No blurst are geck things",
@@ -10770,7 +10770,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "567": {
         "premise_1": "All confive are geck things",
@@ -10789,7 +10789,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "568": {
         "premise_1": "Some blurst are confive",
@@ -10808,7 +10808,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nAnswer:"
     },
     "569": {
         "premise_1": "All geck things are blurst",
@@ -10827,7 +10827,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nAnswer:"
     },
     "570": {
         "premise_1": "Some blurst are confive",
@@ -10846,7 +10846,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "571": {
         "premise_1": "All geck things are blurst",
@@ -10865,7 +10865,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "572": {
         "premise_1": "No blurst are geck things",
@@ -10884,7 +10884,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "573": {
         "premise_1": "All geck things are blurst",
@@ -10903,7 +10903,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "574": {
         "premise_1": "No blurst are geck things",
@@ -10922,7 +10922,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "575": {
         "premise_1": "All geck things are blurst",
@@ -10941,7 +10941,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": false,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "576": {
         "premise_1": "No guztan wobars are shnesive",
@@ -10960,7 +10960,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
     },
     "577": {
         "premise_1": "All flogers wobars are shnesive",
@@ -10979,7 +10979,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nAnswer:"
     },
     "578": {
         "premise_1": "No guztan wobars are shnesive",
@@ -10998,7 +10998,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
     },
     "579": {
         "premise_1": "All flogers wobars are shnesive",
@@ -11017,7 +11017,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are shnesive.\nConclusion: No guztan wobars are flogers wobars.\nIs this argument logically valid?\nAnswer:"
     },
     "580": {
         "premise_1": "No guztan wobars are shnesive",
@@ -11036,7 +11036,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "581": {
         "premise_1": "All flogers wobars are guztan wobars",
@@ -11055,7 +11055,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "582": {
         "premise_1": "No guztan wobars are shnesive",
@@ -11074,7 +11074,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "583": {
         "premise_1": "All flogers wobars are guztan wobars",
@@ -11093,7 +11093,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are guztan wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "584": {
         "premise_1": "No guztan wobars are flogers wobars",
@@ -11112,7 +11112,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
     },
     "585": {
         "premise_1": "All flogers wobars are shnesive",
@@ -11131,7 +11131,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nAnswer:"
     },
     "586": {
         "premise_1": "No guztan wobars are flogers wobars",
@@ -11150,7 +11150,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are flogers wobars.\nAll flogers wobars are shnesive.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "587": {
         "premise_1": "All flogers wobars are shnesive",
@@ -11169,7 +11169,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flogers wobars are shnesive.\nNo guztan wobars are flogers wobars.\nConclusion: No guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "588": {
         "premise_1": "No guztan wobars are shnesive",
@@ -11188,7 +11188,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "589": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -11207,7 +11207,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "590": {
         "premise_1": "No guztan wobars are shnesive",
@@ -11226,7 +11226,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "591": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -11245,7 +11245,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo guztan wobars are shnesive.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "592": {
         "premise_1": "No storf things are thip",
@@ -11264,7 +11264,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
     },
     "593": {
         "premise_1": "All terg blobs are thip",
@@ -11283,7 +11283,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nAnswer:"
     },
     "594": {
         "premise_1": "No storf things are thip",
@@ -11302,7 +11302,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
     },
     "595": {
         "premise_1": "All terg blobs are thip",
@@ -11321,7 +11321,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are thip.\nConclusion: No storf things are terg blobs.\nIs this argument logically valid?\nAnswer:"
     },
     "596": {
         "premise_1": "No storf things are thip",
@@ -11340,7 +11340,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "597": {
         "premise_1": "All terg blobs are storf things",
@@ -11359,7 +11359,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "598": {
         "premise_1": "No storf things are thip",
@@ -11378,7 +11378,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "599": {
         "premise_1": "All terg blobs are storf things",
@@ -11397,7 +11397,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are storf things.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "600": {
         "premise_1": "No storf things are terg blobs",
@@ -11416,7 +11416,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nAnswer:"
     },
     "601": {
         "premise_1": "All terg blobs are thip",
@@ -11435,7 +11435,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nAnswer:"
     },
     "602": {
         "premise_1": "No storf things are terg blobs",
@@ -11454,7 +11454,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are terg blobs.\nAll terg blobs are thip.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "603": {
         "premise_1": "All terg blobs are thip",
@@ -11473,7 +11473,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll terg blobs are thip.\nNo storf things are terg blobs.\nConclusion: No storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "604": {
         "premise_1": "No storf things are thip",
@@ -11492,7 +11492,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "605": {
         "premise_1": "All storf things are terg blobs",
@@ -11511,7 +11511,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "606": {
         "premise_1": "No storf things are thip",
@@ -11530,7 +11530,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo storf things are thip.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "607": {
         "premise_1": "All storf things are terg blobs",
@@ -11549,7 +11549,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo storf things are thip.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "608": {
         "premise_1": "No geck things are confive",
@@ -11568,7 +11568,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nAnswer:"
     },
     "609": {
         "premise_1": "All blurst are confive",
@@ -11587,7 +11587,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nAnswer:"
     },
     "610": {
         "premise_1": "No geck things are confive",
@@ -11606,7 +11606,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
     },
     "611": {
         "premise_1": "All blurst are confive",
@@ -11625,7 +11625,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are confive.\nConclusion: No geck things are blurst.\nIs this argument logically valid?\nAnswer:"
     },
     "612": {
         "premise_1": "No geck things are confive",
@@ -11644,7 +11644,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "613": {
         "premise_1": "All blurst are geck things",
@@ -11663,7 +11663,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "614": {
         "premise_1": "No geck things are confive",
@@ -11682,7 +11682,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "615": {
         "premise_1": "All blurst are geck things",
@@ -11701,7 +11701,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are geck things.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "616": {
         "premise_1": "No geck things are blurst",
@@ -11720,7 +11720,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nAnswer:"
     },
     "617": {
         "premise_1": "All blurst are confive",
@@ -11739,7 +11739,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nAnswer:"
     },
     "618": {
         "premise_1": "No geck things are blurst",
@@ -11758,7 +11758,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are blurst.\nAll blurst are confive.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "619": {
         "premise_1": "All blurst are confive",
@@ -11777,7 +11777,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll blurst are confive.\nNo geck things are blurst.\nConclusion: No geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "620": {
         "premise_1": "No geck things are confive",
@@ -11796,7 +11796,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "621": {
         "premise_1": "All geck things are blurst",
@@ -11815,7 +11815,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "622": {
         "premise_1": "No geck things are confive",
@@ -11834,7 +11834,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo geck things are confive.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "623": {
         "premise_1": "All geck things are blurst",
@@ -11853,7 +11853,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo geck things are confive.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "624": {
         "premise_1": "Some guztan wobars are shnesive",
@@ -11872,7 +11872,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
     },
     "625": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -11891,7 +11891,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nAnswer:"
     },
     "626": {
         "premise_1": "Some guztan wobars are shnesive",
@@ -11910,7 +11910,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome guztan wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "627": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -11929,7 +11929,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome guztan wobars are shnesive.\nConclusion: Some flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "628": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -11948,7 +11948,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "629": {
         "premise_1": "All shnesive are guztan wobars",
@@ -11967,7 +11967,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "630": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -11986,7 +11986,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll shnesive are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "631": {
         "premise_1": "All shnesive are guztan wobars",
@@ -12005,7 +12005,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll shnesive are guztan wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "632": {
         "premise_1": "Some flogers wobars are shnesive",
@@ -12024,7 +12024,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
     },
     "633": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -12043,7 +12043,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nAnswer:"
     },
     "634": {
         "premise_1": "Some flogers wobars are shnesive",
@@ -12062,7 +12062,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome flogers wobars are shnesive.\nAll guztan wobars are flogers wobars.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "635": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -12081,7 +12081,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nSome flogers wobars are shnesive.\nConclusion: Some guztan wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "636": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -12100,7 +12100,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "637": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -12119,7 +12119,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nAnswer:"
     },
     "638": {
         "premise_1": "No flogers wobars are guztan wobars",
@@ -12138,7 +12138,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flogers wobars are guztan wobars.\nAll guztan wobars are flogers wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "639": {
         "premise_1": "All guztan wobars are flogers wobars",
@@ -12157,7 +12157,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll guztan wobars are flogers wobars.\nNo flogers wobars are guztan wobars.\nConclusion: No flogers wobars are shnesive.\nIs this argument logically valid?\nAnswer:"
     },
     "640": {
         "premise_1": "Some storf things are thip",
@@ -12176,7 +12176,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nAnswer:"
     },
     "641": {
         "premise_1": "All storf things are terg blobs",
@@ -12195,7 +12195,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nAnswer:"
     },
     "642": {
         "premise_1": "Some storf things are thip",
@@ -12214,7 +12214,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome storf things are thip.\nAll storf things are terg blobs.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "643": {
         "premise_1": "All storf things are terg blobs",
@@ -12233,7 +12233,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome storf things are thip.\nConclusion: Some terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "644": {
         "premise_1": "No terg blobs are storf things",
@@ -12252,7 +12252,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "645": {
         "premise_1": "All thip are storf things",
@@ -12271,7 +12271,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "646": {
         "premise_1": "No terg blobs are storf things",
@@ -12290,7 +12290,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll thip are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "647": {
         "premise_1": "All thip are storf things",
@@ -12309,7 +12309,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll thip are storf things.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "648": {
         "premise_1": "Some terg blobs are thip",
@@ -12328,7 +12328,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nAnswer:"
     },
     "649": {
         "premise_1": "All storf things are terg blobs",
@@ -12347,7 +12347,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nAnswer:"
     },
     "650": {
         "premise_1": "Some terg blobs are thip",
@@ -12366,7 +12366,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome terg blobs are thip.\nAll storf things are terg blobs.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "651": {
         "premise_1": "All storf things are terg blobs",
@@ -12385,7 +12385,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nSome terg blobs are thip.\nConclusion: Some storf things are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "652": {
         "premise_1": "No terg blobs are storf things",
@@ -12404,7 +12404,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "653": {
         "premise_1": "All storf things are terg blobs",
@@ -12423,7 +12423,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nAnswer:"
     },
     "654": {
         "premise_1": "No terg blobs are storf things",
@@ -12442,7 +12442,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo terg blobs are storf things.\nAll storf things are terg blobs.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "655": {
         "premise_1": "All storf things are terg blobs",
@@ -12461,7 +12461,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll storf things are terg blobs.\nNo terg blobs are storf things.\nConclusion: No terg blobs are thip.\nIs this argument logically valid?\nAnswer:"
     },
     "656": {
         "premise_1": "Some geck things are confive",
@@ -12480,7 +12480,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nAnswer:"
     },
     "657": {
         "premise_1": "All geck things are blurst",
@@ -12499,7 +12499,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nAnswer:"
     },
     "658": {
         "premise_1": "Some geck things are confive",
@@ -12518,7 +12518,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome geck things are confive.\nAll geck things are blurst.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "659": {
         "premise_1": "All geck things are blurst",
@@ -12537,7 +12537,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome geck things are confive.\nConclusion: Some blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "660": {
         "premise_1": "No blurst are geck things",
@@ -12556,7 +12556,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "661": {
         "premise_1": "All confive are geck things",
@@ -12575,7 +12575,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "662": {
         "premise_1": "No blurst are geck things",
@@ -12594,7 +12594,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll confive are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "663": {
         "premise_1": "All confive are geck things",
@@ -12613,7 +12613,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll confive are geck things.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "664": {
         "premise_1": "Some blurst are confive",
@@ -12632,7 +12632,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nAnswer:"
     },
     "665": {
         "premise_1": "All geck things are blurst",
@@ -12651,7 +12651,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nAnswer:"
     },
     "666": {
         "premise_1": "Some blurst are confive",
@@ -12670,7 +12670,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome blurst are confive.\nAll geck things are blurst.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "667": {
         "premise_1": "All geck things are blurst",
@@ -12689,7 +12689,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nSome blurst are confive.\nConclusion: Some geck things are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "668": {
         "premise_1": "No blurst are geck things",
@@ -12708,7 +12708,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "669": {
         "premise_1": "All geck things are blurst",
@@ -12727,7 +12727,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nAnswer:"
     },
     "670": {
         "premise_1": "No blurst are geck things",
@@ -12746,7 +12746,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo blurst are geck things.\nAll geck things are blurst.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     },
     "671": {
         "premise_1": "All geck things are blurst",
@@ -12765,6 +12765,6 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": false,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll geck things are blurst.\nNo blurst are geck things.\nConclusion: No blurst are confive.\nIs this argument logically valid?\nAnswer:"
     }
 }

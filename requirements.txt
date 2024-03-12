@@ -54,6 +54,7 @@ py==1.11.0
 Pygments==2.16.1
 pyparsing==3.0.9
 python-dateutil==2.8.2
+python-dotenv==1.0.1
 pytz==2023.3.post1
 PyYAML==6.0.1
 pyzmq==25.1.0

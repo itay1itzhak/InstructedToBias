@@ -508,7 +508,7 @@ TEMP_FALSE_BELIEF_DEEPMIND_5 = Template(
 )
 
 TEMP_FALSE_BELIEF_DEEPMIND_6 = Template(
-    "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\n"
+    "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\n"
     + "$PREMISE1.\n"
     + "$PREMISE2.\n"
     + "Conclusion: $CONCLUSION.\n"
@@ -516,12 +516,13 @@ TEMP_FALSE_BELIEF_DEEPMIND_6 = Template(
 )
 
 TEMP_FALSE_BELIEF_DEEPMIND_7 = Template(
-    "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\n"
+    "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\n"
     + "$PREMISE1.\n"
     + "$PREMISE2.\n"
     + "Conclusion: $CONCLUSION.\n"
     + "$CLOSING_LINE"
 )
+
 
 ALL_FALSE_BELIEF_DEEPMIND_TEMP = {
     1: TEMP_FALSE_BELIEF_DEEPMIND_1,
@@ -544,6 +545,9 @@ FB_UNDECIDED_ANSWERS = [
     "cannot be definitively",
     "cannot be drawn",
     "cannot be determined",
+    "cannot determined",
+    "cannot be concluded",
+    "I'm sorry",
     "Please select one of the options from the table above",  # llama-2-chat common answer
 ]
 

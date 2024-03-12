@@ -17,9 +17,8 @@ pip install requirements.txt -r
 
 ## Generate the data
 Use the following script generate data for the three biases - the decoy effect, certainty effect and belief bias*.
-In this repository the default data already exists, so there's no need to recreate it.
 
-\* Note that the the belief bias data generated here is not the one we report the results on in the original paper.
+\* Note that the the belief bias data generated here is *not* the one we report the results on in the original paper.
 This data is a recreation of the data created by [Dasgupta et al. (2022)](https://arxiv.org/abs/2207.07051) which we used for the results in our paper.
 
 ```BIAS_NAME = {'decoy','certainty','false_belief'}.```
@@ -28,7 +27,7 @@ This data is a recreation of the data created by [Dasgupta et al. (2022)](https:
 python Data_generation/generate_samples.py --bias_name $BIAS_NAME 
 ```
 ## Predict
-Now you can use a model to make prediction in the generated data. We support the models used in the original paper from the GPT3/3.5/4 and the T5/Flan-T5 models families.
+Now you can use a model to make prediction in the generated data. We support the models used in the original paper from the GPT3/3.5/4, the T5/Flan-T5, and the Mistral-7B models families.
 Additional models can be easily supported by adding a new predictor file for your model that inherits from the Predictor class (see 'Predict/t5_predict.py' for example).
 
 We'll use T5-Small and Flan-T5-Small as an example.

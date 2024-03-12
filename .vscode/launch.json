@@ -12,57 +12,60 @@
             "console": "integratedTerminal",
             "justMyCode": true
         },
-
         {
             "name": "generate_samples decoy",
             "type": "python",
             "request": "launch",
             "program": "Data_generation/generate_samples.py ",
             "args": [
-                "--bias_name", "decoy",
-                "--product", "all",
+                "--bias_name",
+                "decoy",
+                "--product",
+                "all",
                 "--with_bias",
                 //"--bias_types", "only_two_options",
                 "--all_options_permutations",
-                "--templates", "1,2,3,4"
+                "--templates",
+                "1,2,3,4"
             ],
             "console": "integratedTerminal",
             "justMyCode": true
         },
-        
-
         {
             "name": "generate_samples certainty",
             "type": "python",
             "request": "launch",
             "program": "Data_generation/generate_samples.py ",
             "args": [
-                "--bias_name", "certainty",
-                "--bias_types", "three_probs,two_probs",
-                "--templates","1,2,3",
+                "--bias_name",
+                "certainty",
+                "--bias_types",
+                "three_probs,two_probs",
+                "--templates",
+                "1,2,3",
                 "--all_options_permutations",
             ],
             "console": "integratedTerminal",
             "justMyCode": true
         },
-
-
         {
             "name": "generate_samples false belief deep mind",
             "type": "python",
             "request": "launch",
             "program": "Data_generation/generate_samples.py",
             "args": [
-                "--bias_name", "false_belief",
-                "--templates","1,2,3,4,5,6,7",
-                "--bias_types", "dm_1,dm_2",
+                "--bias_name",
+                "false_belief",
+                "--templates",
+                "1,2,3,4,5,6,7",
+                "--bias_types",
+                "dm_1,dm_2",
                 "--all_options_permutations",
+                "True"
             ],
             "console": "integratedTerminal",
             "justMyCode": true
         },
-
-
         {
             "name": "mass predict args",
             "type": "python",
@@ -71,23 +74,29 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                //"--bias_name", "false_belief",
-                "--bias_name", "decoy",
+                "--bias_name",
+                "false_belief",
+                //"--bias_name",
+                //"decoy",
                 //"--bias_name", "certainty",
                 //"--all_models", "gpt-4-0314",
                 //"--all_models", "text-davinci-003",
                 //"--all_models", "davinci",
-                //"--all_models", "flan-t5-small",
+                "--all_models",
+                "flan-t5-small",
                 //"--all_models", "t5-v1_1-small",
-                "--all_models", "t5-v1_1-small,flan-t5-small",
-                //"--all_k_shot_vanilla", "0,1,2,3",
+                //"--all_models",
+                //"t5-v1_1-small,flan-t5-small",
+                "--all_k_shot_vanilla",
+                "1,2,3",
                 //"--all_k_shot_instruct", "0,1,2,3",
-                "--all_should_normalize_vanilla", "True",
+                "--all_should_normalize_vanilla",
+                "True",
                 //"--with_few_shot_task_or_format", "task"
-                "--with_few_shot_task_or_format", "format"
+                "--with_few_shot_task_or_format",
+                "format"
             ],
         },
-
         {
             "name": "mass analysis decoy args",
             "type": "python",
@@ -97,7 +106,8 @@
             "justMyCode": true,
             "args": [
                 //"--bias_name", "decoy_expensive",
-                "--bias_name", "decoy_cheaper",
+                "--bias_name",
+                "decoy_cheaper",
                 //"--all_products", "frying_pan",
                 //"--all_products", "car,phone,frying_pan",
                 //"--all_products", "car_cheaper,property_cheaper,phone_cheaper,frying_pan_cheaper",
@@ -111,21 +121,23 @@
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "flan-t5-xxl,text-davinci-003,gpt-4-0314",
                 //"--all_models", "text-davinci-003,gpt-4-0314",
-                "--all_models", "text-davinci-003,flan-t5-xxl",
+                "--all_models",
+                "text-davinci-003,flan-t5-xxl",
                 //"--all_models", "flan-t5-xl,flan-t5-xxl",
                 //"--all_models", "text-davinci-003",
                 //"--all_models", "flan-t5-small,t5-v1_1-small",
-                "--all_k_shot_vanilla", "0",
-                "--all_k_shot_instruct", "0",
+                "--all_k_shot_vanilla",
+                "0",
+                "--all_k_shot_instruct",
+                "0",
                 "--with_format_few_shot",
-               // "--all_should_normalize_vanilla", "True",
+                // "--all_should_normalize_vanilla", "True",
                 //"--all_options_permutations", "True",
                 //"--all_conditions", "price1:$80K#price2:$80K*price1:$90K#price2:$90K*price1:$100K#price2:$100K*price1:$110K#price2:$110K",
                 //"--all_conditions", "bias_type:Decoy_type.R_EXTREAM#bias_type:Decoy_type.TWO_OPTIONS",
                 //"--all_conditions", "template:1",
             ],
         },
-
         {
             "name": "mass analysis certainty args",
             "type": "python",
@@ -134,28 +146,33 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                "--bias_name", "certainty",
-                "--bias_type", "three_probs,two_probs,not_probable",
+                "--bias_name",
+                "certainty",
+                "--bias_type",
+                "three_probs,two_probs,not_probable",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xl,flan-t5-xl,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314",
                 //"--all_models", "t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "flan-t5-xl,flan-t5-xxl",
-                "--all_models", "text-davinci-003",
+                "--all_models",
+                "text-davinci-003",
                 //"--all_models", "t5-v1_1-small,flan-t5-small,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_k_shot_vanilla", "0,1,2,3",
                 //"--all_k_shot_instruct", "0,1,2,3",
-                "--all_k_shot_vanilla", "0",
-                "--all_k_shot_instruct", "0,1,2,3",
+                "--all_k_shot_vanilla",
+                "0",
+                "--all_k_shot_instruct",
+                "0,1,2,3",
                 //"--all_should_normalize_vanilla", "True,False",
                 //"--all_options_permutations", "True",
                 //"--all_conditions", "subtemplates>bias_type_index:3&option_a>option_type:target&option_a>PRIZE1:$6000#subtemplates>bias_type_index:3&option_b>option_type:target&option_b>PRIZE1:$6000",
-                "--all_conditions", "subtemplates>bias_type_index:1&subtemplates>bias_type_index:2", // this if for normal certainty effect!
+                "--all_conditions",
+                "subtemplates>bias_type_index:1&subtemplates>bias_type_index:2", // this if for normal certainty effect!
                 //"--all_conditions", "subtemplates>bias_type_index:3",
                 "--with_format_few_shot"
             ],
         },
-
         {
             "name": "mass analysis belief bias args",
             "type": "python",
@@ -164,20 +181,24 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": [
-                "--bias_name", "false_belief",
+                "--bias_name",
+                "false_belief",
                 //"--bias_type", "dm_1,dm_2",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xl,flan-t5-xl,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,t5-v1_1-xl,flan-t5-xl,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314,t5-v1_1-xxl,flan-t5-xxl",
                 //"--all_models", "davinci,text-davinci-002,text-davinci-003,gpt-4-0314",
-                "--all_models", "davinci,text-davinci-002,text-davinci-003",
+                "--all_models",
+                "davinci,text-davinci-002,text-davinci-003",
                 //"--all_models", "text-davinci-003,gpt-4-0314",
                 // "--all_models", "text-davinci-003",
                 //"--all_models", "flan-t5-xl,flan-t5-xxl",
                 //"--all_models", "t5-v1_1-small,flan-t5-small",
                 //"--all_k_shot_vanilla", "0,1,2,3",
-                "--all_k_shot_vanilla", "0",
-                "--all_k_shot_instruct", "0",
+                "--all_k_shot_vanilla",
+                "0",
+                "--all_k_shot_instruct",
+                "0",
                 //"--all_should_normalize_vanilla", "False,True",
                 //"--all_should_normalize_vanilla", "True",
                 //"--all_predict_instruct_according_to_log_probs", "True",
@@ -187,6 +208,5 @@
                 //"--with_format_few_shot"
             ],
         },
-
     ]
 }

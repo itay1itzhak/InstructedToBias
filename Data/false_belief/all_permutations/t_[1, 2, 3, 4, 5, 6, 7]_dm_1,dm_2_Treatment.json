@@ -9136,7 +9136,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
     },
     "481": {
         "premise_1": "All reptiles are animals",
@@ -9155,7 +9155,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
     },
     "482": {
         "premise_1": "No flowers are animals",
@@ -9174,7 +9174,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
     },
     "483": {
         "premise_1": "All reptiles are animals",
@@ -9193,7 +9193,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
     },
     "484": {
         "premise_1": "No flowers are animals",
@@ -9212,7 +9212,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "485": {
         "premise_1": "All reptiles are flowers",
@@ -9231,7 +9231,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "486": {
         "premise_1": "No flowers are animals",
@@ -9250,7 +9250,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "487": {
         "premise_1": "All reptiles are flowers",
@@ -9269,7 +9269,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "488": {
         "premise_1": "No flowers are reptiles",
@@ -9288,7 +9288,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nAnswer:"
     },
     "489": {
         "premise_1": "All reptiles are animals",
@@ -9307,7 +9307,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nAnswer:"
     },
     "490": {
         "premise_1": "No flowers are reptiles",
@@ -9326,7 +9326,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "491": {
         "premise_1": "All reptiles are animals",
@@ -9345,7 +9345,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "492": {
         "premise_1": "No flowers are animals",
@@ -9364,7 +9364,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "493": {
         "premise_1": "All flowers are reptiles",
@@ -9383,7 +9383,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "494": {
         "premise_1": "No flowers are animals",
@@ -9402,7 +9402,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "495": {
         "premise_1": "All flowers are reptiles",
@@ -9421,7 +9421,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "496": {
         "premise_1": "No buildings are things that move",
@@ -9440,7 +9440,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
     },
     "497": {
         "premise_1": "All vehicles are things that move",
@@ -9459,7 +9459,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
     },
     "498": {
         "premise_1": "No buildings are things that move",
@@ -9478,7 +9478,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
     },
     "499": {
         "premise_1": "All vehicles are things that move",
@@ -9497,7 +9497,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
     },
     "500": {
         "premise_1": "No buildings are things that move",
@@ -9516,7 +9516,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "501": {
         "premise_1": "All vehicles are buildings",
@@ -9535,7 +9535,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "502": {
         "premise_1": "No buildings are things that move",
@@ -9554,7 +9554,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "503": {
         "premise_1": "All vehicles are buildings",
@@ -9573,7 +9573,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "504": {
         "premise_1": "No buildings are vehicles",
@@ -9592,7 +9592,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nAnswer:"
     },
     "505": {
         "premise_1": "All vehicles are things that move",
@@ -9611,7 +9611,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nAnswer:"
     },
     "506": {
         "premise_1": "No buildings are vehicles",
@@ -9630,7 +9630,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "507": {
         "premise_1": "All vehicles are things that move",
@@ -9649,7 +9649,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "508": {
         "premise_1": "No buildings are things that move",
@@ -9668,7 +9668,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "509": {
         "premise_1": "All buildings are vehicles",
@@ -9687,7 +9687,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "510": {
         "premise_1": "No buildings are things that move",
@@ -9706,7 +9706,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "511": {
         "premise_1": "All buildings are vehicles",
@@ -9725,7 +9725,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "512": {
         "premise_1": "Some diamonds are transparent things",
@@ -9744,7 +9744,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nAnswer:"
     },
     "513": {
         "premise_1": "All diamonds are gems",
@@ -9763,7 +9763,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nAnswer:"
     },
     "514": {
         "premise_1": "Some diamonds are transparent things",
@@ -9782,7 +9782,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "515": {
         "premise_1": "All diamonds are gems",
@@ -9801,7 +9801,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "516": {
         "premise_1": "No gems are diamonds",
@@ -9820,7 +9820,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "517": {
         "premise_1": "All transparent things are diamonds",
@@ -9839,7 +9839,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "518": {
         "premise_1": "No gems are diamonds",
@@ -9858,7 +9858,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "519": {
         "premise_1": "All transparent things are diamonds",
@@ -9877,7 +9877,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "520": {
         "premise_1": "Some gems are transparent things",
@@ -9896,7 +9896,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nAnswer:"
     },
     "521": {
         "premise_1": "All diamonds are gems",
@@ -9915,7 +9915,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nAnswer:"
     },
     "522": {
         "premise_1": "Some gems are transparent things",
@@ -9934,7 +9934,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "523": {
         "premise_1": "All diamonds are gems",
@@ -9953,7 +9953,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "524": {
         "premise_1": "No gems are diamonds",
@@ -9972,7 +9972,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "525": {
         "premise_1": "All diamonds are gems",
@@ -9991,7 +9991,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "526": {
         "premise_1": "No gems are diamonds",
@@ -10010,7 +10010,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "527": {
         "premise_1": "All diamonds are gems",
@@ -10029,7 +10029,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "528": {
         "premise_1": "Some trees are tall things",
@@ -10048,7 +10048,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nAnswer:"
     },
     "529": {
         "premise_1": "All trees are plants",
@@ -10067,7 +10067,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nAnswer:"
     },
     "530": {
         "premise_1": "Some trees are tall things",
@@ -10086,7 +10086,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "531": {
         "premise_1": "All trees are plants",
@@ -10105,7 +10105,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "532": {
         "premise_1": "No plants are trees",
@@ -10124,7 +10124,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "533": {
         "premise_1": "All tall things are trees",
@@ -10143,7 +10143,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "534": {
         "premise_1": "No plants are trees",
@@ -10162,7 +10162,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "535": {
         "premise_1": "All tall things are trees",
@@ -10181,7 +10181,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "536": {
         "premise_1": "Some plants are tall things",
@@ -10200,7 +10200,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nAnswer:"
     },
     "537": {
         "premise_1": "All trees are plants",
@@ -10219,7 +10219,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nAnswer:"
     },
     "538": {
         "premise_1": "Some plants are tall things",
@@ -10238,7 +10238,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "539": {
         "premise_1": "All trees are plants",
@@ -10257,7 +10257,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "540": {
         "premise_1": "No plants are trees",
@@ -10276,7 +10276,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "541": {
         "premise_1": "All trees are plants",
@@ -10295,7 +10295,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "542": {
         "premise_1": "No plants are trees",
@@ -10314,7 +10314,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "543": {
         "premise_1": "All trees are plants",
@@ -10333,7 +10333,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "544": {
         "premise_1": "Some whales are big things",
@@ -10352,7 +10352,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nAnswer:"
     },
     "545": {
         "premise_1": "All whales are mammals",
@@ -10371,7 +10371,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nAnswer:"
     },
     "546": {
         "premise_1": "Some whales are big things",
@@ -10390,7 +10390,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "547": {
         "premise_1": "All whales are mammals",
@@ -10409,7 +10409,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "548": {
         "premise_1": "No mammals are whales",
@@ -10428,7 +10428,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "549": {
         "premise_1": "All big things are whales",
@@ -10447,7 +10447,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "550": {
         "premise_1": "No mammals are whales",
@@ -10466,7 +10466,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "551": {
         "premise_1": "All big things are whales",
@@ -10485,7 +10485,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "552": {
         "premise_1": "Some mammals are big things",
@@ -10504,7 +10504,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nAnswer:"
     },
     "553": {
         "premise_1": "All whales are mammals",
@@ -10523,7 +10523,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nAnswer:"
     },
     "554": {
         "premise_1": "Some mammals are big things",
@@ -10542,7 +10542,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "555": {
         "premise_1": "All whales are mammals",
@@ -10561,7 +10561,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "556": {
         "premise_1": "No mammals are whales",
@@ -10580,7 +10580,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "557": {
         "premise_1": "All whales are mammals",
@@ -10599,7 +10599,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "558": {
         "premise_1": "No mammals are whales",
@@ -10618,7 +10618,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "559": {
         "premise_1": "All whales are mammals",
@@ -10637,7 +10637,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "560": {
         "premise_1": "Some famous actors are old people",
@@ -10656,7 +10656,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nAnswer:"
     },
     "561": {
         "premise_1": "All famous actors are wealthy people",
@@ -10675,7 +10675,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nAnswer:"
     },
     "562": {
         "premise_1": "Some famous actors are old people",
@@ -10694,7 +10694,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "563": {
         "premise_1": "All famous actors are wealthy people",
@@ -10713,7 +10713,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "564": {
         "premise_1": "No wealthy people are famous actors",
@@ -10732,7 +10732,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "565": {
         "premise_1": "All old people are famous actors",
@@ -10751,7 +10751,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "566": {
         "premise_1": "No wealthy people are famous actors",
@@ -10770,7 +10770,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "567": {
         "premise_1": "All old people are famous actors",
@@ -10789,7 +10789,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "568": {
         "premise_1": "Some wealthy people are old people",
@@ -10808,7 +10808,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nAnswer:"
     },
     "569": {
         "premise_1": "All famous actors are wealthy people",
@@ -10827,7 +10827,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nAnswer:"
     },
     "570": {
         "premise_1": "Some wealthy people are old people",
@@ -10846,7 +10846,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "571": {
         "premise_1": "All famous actors are wealthy people",
@@ -10865,7 +10865,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "572": {
         "premise_1": "No wealthy people are famous actors",
@@ -10884,7 +10884,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "573": {
         "premise_1": "All famous actors are wealthy people",
@@ -10903,7 +10903,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "574": {
         "premise_1": "No wealthy people are famous actors",
@@ -10922,7 +10922,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "575": {
         "premise_1": "All famous actors are wealthy people",
@@ -10941,7 +10941,7 @@
         "bias_name": "false_belief",
         "template": 6,
         "with_bias": true,
-        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "576": {
         "premise_1": "No flowers are animals",
@@ -10960,7 +10960,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
     },
     "577": {
         "premise_1": "All reptiles are animals",
@@ -10979,7 +10979,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nAnswer:"
     },
     "578": {
         "premise_1": "No flowers are animals",
@@ -10998,7 +10998,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
     },
     "579": {
         "premise_1": "All reptiles are animals",
@@ -11017,7 +11017,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are animals.\nConclusion: No flowers are reptiles.\nIs this argument logically valid?\nAnswer:"
     },
     "580": {
         "premise_1": "No flowers are animals",
@@ -11036,7 +11036,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "581": {
         "premise_1": "All reptiles are flowers",
@@ -11055,7 +11055,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "582": {
         "premise_1": "No flowers are animals",
@@ -11074,7 +11074,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll reptiles are flowers.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "583": {
         "premise_1": "All reptiles are flowers",
@@ -11093,7 +11093,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are flowers.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "584": {
         "premise_1": "No flowers are reptiles",
@@ -11112,7 +11112,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nAnswer:"
     },
     "585": {
         "premise_1": "All reptiles are animals",
@@ -11131,7 +11131,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nAnswer:"
     },
     "586": {
         "premise_1": "No flowers are reptiles",
@@ -11150,7 +11150,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are reptiles.\nAll reptiles are animals.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "587": {
         "premise_1": "All reptiles are animals",
@@ -11169,7 +11169,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll reptiles are animals.\nNo flowers are reptiles.\nConclusion: No flowers are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "588": {
         "premise_1": "No flowers are animals",
@@ -11188,7 +11188,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "589": {
         "premise_1": "All flowers are reptiles",
@@ -11207,7 +11207,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nAnswer:"
     },
     "590": {
         "premise_1": "No flowers are animals",
@@ -11226,7 +11226,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo flowers are animals.\nAll flowers are reptiles.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "591": {
         "premise_1": "All flowers are reptiles",
@@ -11245,7 +11245,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll flowers are reptiles.\nNo flowers are animals.\nConclusion: No reptiles are animals.\nIs this argument logically valid?\nAnswer:"
     },
     "592": {
         "premise_1": "No buildings are things that move",
@@ -11264,7 +11264,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
     },
     "593": {
         "premise_1": "All vehicles are things that move",
@@ -11283,7 +11283,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nAnswer:"
     },
     "594": {
         "premise_1": "No buildings are things that move",
@@ -11302,7 +11302,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
     },
     "595": {
         "premise_1": "All vehicles are things that move",
@@ -11321,7 +11321,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are things that move.\nConclusion: No buildings are vehicles.\nIs this argument logically valid?\nAnswer:"
     },
     "596": {
         "premise_1": "No buildings are things that move",
@@ -11340,7 +11340,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "597": {
         "premise_1": "All vehicles are buildings",
@@ -11359,7 +11359,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "598": {
         "premise_1": "No buildings are things that move",
@@ -11378,7 +11378,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll vehicles are buildings.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "599": {
         "premise_1": "All vehicles are buildings",
@@ -11397,7 +11397,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are buildings.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "600": {
         "premise_1": "No buildings are vehicles",
@@ -11416,7 +11416,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nAnswer:"
     },
     "601": {
         "premise_1": "All vehicles are things that move",
@@ -11435,7 +11435,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nAnswer:"
     },
     "602": {
         "premise_1": "No buildings are vehicles",
@@ -11454,7 +11454,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are vehicles.\nAll vehicles are things that move.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "603": {
         "premise_1": "All vehicles are things that move",
@@ -11473,7 +11473,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll vehicles are things that move.\nNo buildings are vehicles.\nConclusion: No buildings are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "604": {
         "premise_1": "No buildings are things that move",
@@ -11492,7 +11492,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "605": {
         "premise_1": "All buildings are vehicles",
@@ -11511,7 +11511,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nAnswer:"
     },
     "606": {
         "premise_1": "No buildings are things that move",
@@ -11530,7 +11530,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo buildings are things that move.\nAll buildings are vehicles.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "607": {
         "premise_1": "All buildings are vehicles",
@@ -11549,7 +11549,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll buildings are vehicles.\nNo buildings are things that move.\nConclusion: No vehicles are things that move.\nIs this argument logically valid?\nAnswer:"
     },
     "608": {
         "premise_1": "Some diamonds are transparent things",
@@ -11568,7 +11568,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nAnswer:"
     },
     "609": {
         "premise_1": "All diamonds are gems",
@@ -11587,7 +11587,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nAnswer:"
     },
     "610": {
         "premise_1": "Some diamonds are transparent things",
@@ -11606,7 +11606,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome diamonds are transparent things.\nAll diamonds are gems.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "611": {
         "premise_1": "All diamonds are gems",
@@ -11625,7 +11625,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome diamonds are transparent things.\nConclusion: Some gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "612": {
         "premise_1": "No gems are diamonds",
@@ -11644,7 +11644,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "613": {
         "premise_1": "All transparent things are diamonds",
@@ -11663,7 +11663,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "614": {
         "premise_1": "No gems are diamonds",
@@ -11682,7 +11682,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll transparent things are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "615": {
         "premise_1": "All transparent things are diamonds",
@@ -11701,7 +11701,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll transparent things are diamonds.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "616": {
         "premise_1": "Some gems are transparent things",
@@ -11720,7 +11720,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nAnswer:"
     },
     "617": {
         "premise_1": "All diamonds are gems",
@@ -11739,7 +11739,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nAnswer:"
     },
     "618": {
         "premise_1": "Some gems are transparent things",
@@ -11758,7 +11758,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome gems are transparent things.\nAll diamonds are gems.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "619": {
         "premise_1": "All diamonds are gems",
@@ -11777,7 +11777,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nSome gems are transparent things.\nConclusion: Some diamonds are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "620": {
         "premise_1": "No gems are diamonds",
@@ -11796,7 +11796,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "621": {
         "premise_1": "All diamonds are gems",
@@ -11815,7 +11815,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nAnswer:"
     },
     "622": {
         "premise_1": "No gems are diamonds",
@@ -11834,7 +11834,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo gems are diamonds.\nAll diamonds are gems.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "623": {
         "premise_1": "All diamonds are gems",
@@ -11853,7 +11853,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll diamonds are gems.\nNo gems are diamonds.\nConclusion: No gems are transparent things.\nIs this argument logically valid?\nAnswer:"
     },
     "624": {
         "premise_1": "Some trees are tall things",
@@ -11872,7 +11872,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nAnswer:"
     },
     "625": {
         "premise_1": "All trees are plants",
@@ -11891,7 +11891,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nAnswer:"
     },
     "626": {
         "premise_1": "Some trees are tall things",
@@ -11910,7 +11910,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome trees are tall things.\nAll trees are plants.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "627": {
         "premise_1": "All trees are plants",
@@ -11929,7 +11929,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome trees are tall things.\nConclusion: Some plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "628": {
         "premise_1": "No plants are trees",
@@ -11948,7 +11948,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "629": {
         "premise_1": "All tall things are trees",
@@ -11967,7 +11967,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "630": {
         "premise_1": "No plants are trees",
@@ -11986,7 +11986,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll tall things are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "631": {
         "premise_1": "All tall things are trees",
@@ -12005,7 +12005,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll tall things are trees.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "632": {
         "premise_1": "Some plants are tall things",
@@ -12024,7 +12024,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nAnswer:"
     },
     "633": {
         "premise_1": "All trees are plants",
@@ -12043,7 +12043,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nAnswer:"
     },
     "634": {
         "premise_1": "Some plants are tall things",
@@ -12062,7 +12062,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome plants are tall things.\nAll trees are plants.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "635": {
         "premise_1": "All trees are plants",
@@ -12081,7 +12081,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nSome plants are tall things.\nConclusion: Some trees are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "636": {
         "premise_1": "No plants are trees",
@@ -12100,7 +12100,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "637": {
         "premise_1": "All trees are plants",
@@ -12119,7 +12119,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nAnswer:"
     },
     "638": {
         "premise_1": "No plants are trees",
@@ -12138,7 +12138,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo plants are trees.\nAll trees are plants.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "639": {
         "premise_1": "All trees are plants",
@@ -12157,7 +12157,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll trees are plants.\nNo plants are trees.\nConclusion: No plants are tall things.\nIs this argument logically valid?\nAnswer:"
     },
     "640": {
         "premise_1": "Some whales are big things",
@@ -12176,7 +12176,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nAnswer:"
     },
     "641": {
         "premise_1": "All whales are mammals",
@@ -12195,7 +12195,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nAnswer:"
     },
     "642": {
         "premise_1": "Some whales are big things",
@@ -12214,7 +12214,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome whales are big things.\nAll whales are mammals.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "643": {
         "premise_1": "All whales are mammals",
@@ -12233,7 +12233,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome whales are big things.\nConclusion: Some mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "644": {
         "premise_1": "No mammals are whales",
@@ -12252,7 +12252,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "645": {
         "premise_1": "All big things are whales",
@@ -12271,7 +12271,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "646": {
         "premise_1": "No mammals are whales",
@@ -12290,7 +12290,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll big things are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "647": {
         "premise_1": "All big things are whales",
@@ -12309,7 +12309,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll big things are whales.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "648": {
         "premise_1": "Some mammals are big things",
@@ -12328,7 +12328,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nAnswer:"
     },
     "649": {
         "premise_1": "All whales are mammals",
@@ -12347,7 +12347,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nAnswer:"
     },
     "650": {
         "premise_1": "Some mammals are big things",
@@ -12366,7 +12366,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome mammals are big things.\nAll whales are mammals.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "651": {
         "premise_1": "All whales are mammals",
@@ -12385,7 +12385,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nSome mammals are big things.\nConclusion: Some whales are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "652": {
         "premise_1": "No mammals are whales",
@@ -12404,7 +12404,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "653": {
         "premise_1": "All whales are mammals",
@@ -12423,7 +12423,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nAnswer:"
     },
     "654": {
         "premise_1": "No mammals are whales",
@@ -12442,7 +12442,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo mammals are whales.\nAll whales are mammals.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "655": {
         "premise_1": "All whales are mammals",
@@ -12461,7 +12461,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll whales are mammals.\nNo mammals are whales.\nConclusion: No mammals are big things.\nIs this argument logically valid?\nAnswer:"
     },
     "656": {
         "premise_1": "Some famous actors are old people",
@@ -12480,7 +12480,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nAnswer:"
     },
     "657": {
         "premise_1": "All famous actors are wealthy people",
@@ -12499,7 +12499,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nAnswer:"
     },
     "658": {
         "premise_1": "Some famous actors are old people",
@@ -12518,7 +12518,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome famous actors are old people.\nAll famous actors are wealthy people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "659": {
         "premise_1": "All famous actors are wealthy people",
@@ -12537,7 +12537,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome famous actors are old people.\nConclusion: Some wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "660": {
         "premise_1": "No wealthy people are famous actors",
@@ -12556,7 +12556,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "661": {
         "premise_1": "All old people are famous actors",
@@ -12575,7 +12575,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "662": {
         "premise_1": "No wealthy people are famous actors",
@@ -12594,7 +12594,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll old people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "663": {
         "premise_1": "All old people are famous actors",
@@ -12613,7 +12613,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll old people are famous actors.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "664": {
         "premise_1": "Some wealthy people are old people",
@@ -12632,7 +12632,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nAnswer:"
     },
     "665": {
         "premise_1": "All famous actors are wealthy people",
@@ -12651,7 +12651,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nAnswer:"
     },
     "666": {
         "premise_1": "Some wealthy people are old people",
@@ -12670,7 +12670,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nSome wealthy people are old people.\nAll famous actors are wealthy people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "667": {
         "premise_1": "All famous actors are wealthy people",
@@ -12689,7 +12689,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nSome wealthy people are old people.\nConclusion: Some famous actors are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "668": {
         "premise_1": "No wealthy people are famous actors",
@@ -12708,7 +12708,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "669": {
         "premise_1": "All famous actors are wealthy people",
@@ -12727,7 +12727,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nAnswer:"
     },
     "670": {
         "premise_1": "No wealthy people are famous actors",
@@ -12746,7 +12746,7 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nNo wealthy people are famous actors.\nAll famous actors are wealthy people.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     },
     "671": {
         "premise_1": "All famous actors are wealthy people",
@@ -12765,6 +12765,6 @@
         "bias_name": "false_belief",
         "template": 7,
         "with_bias": true,
-        "text": "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
+        "text": "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\nAll famous actors are wealthy people.\nNo wealthy people are famous actors.\nConclusion: No wealthy people are old people.\nIs this argument logically valid?\nAnswer:"
     }
 }

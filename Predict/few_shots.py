@@ -80,13 +80,12 @@ def get_few_shots_temp_and_options(bias_name, data_path, with_format_few_shot):
     return all_temps, options, all_values
 
 
-def get_false_belief_sample(all_vals, exp_options, e, prev_sample):
+def get_false_belief_sample(all_vals, chosen_values, exp_options, e, prev_sample):
     cur_vals = []
-    cur_objects = random.choice(list(ALL_FB_OBJECTS_TASK_FEW_SHOT.values()))
     bias_type = random.choice(exp_options)
     add_syllogisms(
         cur_vals,
-        cur_objects,
+        chosen_values,
         add_permut=True,
         vals_str="",
         bias_type=bias_type,
@@ -101,23 +100,24 @@ def get_false_belief_sample(all_vals, exp_options, e, prev_sample):
     sample = random.choice(gen.generate_samples())
     if all_vals:  # if we already have a sample
         # get sample that is different from the previous one
-        while sample.values["is_valid"] == prev_sample.values["is_valid"]:  # type: ignore
+        while (
+            sample.values["is_valid"] == prev_sample.values["is_valid"]
+            or sample in all_vals
+        ):  # normal
             sample = random.choice(gen.generate_samples())
-
+    else:
+        sample = random.choice(gen.generate_samples())
     return sample
 
 
-def get_false_belief_task_few_shot(e, exp_options, k_shot) -> list[str]:
+def get_false_belief_task_few_shot(e, exp_options, k_shot, chosen_values) -> list[str]:
     all_vals = []
     prev_sample = None
     for k in range(k_shot):
-        sample = get_false_belief_sample(all_vals, exp_options, e, prev_sample)
+        sample = get_false_belief_sample(
+            all_vals, chosen_values[k], exp_options, e, prev_sample
+        )
         prev_sample = sample
-        # if sample.values["is_valid"]:
-        #     sample_text = sample.get_text() + " The conclusion is valid."
-        # else:
-        #     sample_text = sample.get_text() + " The conclusion is invalid."
-        # all_vals.append(sample_text)
         sample_answer = (
             " The conclusion is valid."
             if sample.values["is_valid"]
@@ -145,10 +145,6 @@ def get_by_templates_few_shot(
     random.shuffle(options)
 
     if bias_name == "decoy":
-        # few_shots_texts = [
-        #     shot_template.substitute(OPTION=options[i % 2])  # type: ignore
-        #     for i, shot_template in enumerate(chosen_templates)
-        # ]
         few_shots_texts = [
             {
                 **shot_template,
@@ -163,14 +159,11 @@ def get_by_templates_few_shot(
                 random.shuffle(vals)
         few_shots_texts = [
             {
-                "question": shot_template.substitute(  # type: ignore
-                    # OPTION=options[i % 2],
+                "question": shot_template.substitute(
                     FIRST_OPTION_OPENING=e["first_option_opening"],
                     SECOND_OPTION_OPENING=e["second_option_opening"],
                     FIRST_OPTION=chosen_values[i][0],
                     SECOND_OPTION=chosen_values[i][1],
-                    # OPENING_LINE=e["text"].split('\n')[0],
-                    # CLOSING_LINE=e["closing_line"],
                 ),
                 "answer": f" Option {options[i % 2]}.",
             }
@@ -178,7 +171,7 @@ def get_by_templates_few_shot(
         ]
     elif bias_name == "false_belief":
         few_shots_texts = get_false_belief_task_few_shot(
-            e, options, len(chosen_templates)
+            e, options, len(chosen_templates), chosen_values
         )
     else:
         raise Exception(f"Not supported bias {bias_name}")
