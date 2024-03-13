@@ -17,6 +17,7 @@ pip install requirements.txt -r
 
 ## Generate the data
 Use the following script generate data for the three biases - the decoy effect, certainty effect and belief bias*.
+You can also unzip the Data.zip file to get the generated data.
 
 \* Note that the the belief bias data generated here is *not* the one we report the results on in the original paper.
 This data is a recreation of the data created by [Dasgupta et al. (2022)](https://arxiv.org/abs/2207.07051) which we used for the results in our paper.
