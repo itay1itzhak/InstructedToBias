@@ -1,7 +1,6 @@
 from pathlib import Path
 import os
 
-
 INSTURCT_MODELS = [
     "text-davinci-002",
     "text-davinci-003",
@@ -11,6 +10,10 @@ INSTURCT_MODELS = [
     "flan-t5-large",
     "flan-t5-xl",
     "flan-t5-xxl",
+    "Llama-2-7b-chat",
+    "Llama-2-13b-chat",
+    "Llama-2-70b-chat",
+    "Mistral-7B-Instruct",
 ]
 VANILLA_MODELS = [
     "davinci",
@@ -18,10 +21,15 @@ VANILLA_MODELS = [
     "t5-3b",
     "t5-v1_1-xl",
     "t5-v1_1-xxl",
+    "t5-v1_1-small",
     "llama_7B",
     "llama_13B",
     "llama-7b",
     "llama-13b",
+    "Llama-2-7b",
+    "Llama-2-13b",
+    "Llama-2-70b",
+    "Mistral-7B",
 ]
 
 OPENAI_MODELS = [
@@ -53,6 +61,26 @@ FLAN_T5_MODELS = [
     "flan-t5-xxl",
 ]
 
+LLAMA_MODELS = [
+    "Llama-2-7b",
+    "Llama-2-13b",
+    "Llama-2-70b",
+]
+
+LLAMA_CHAT_MODELS = [
+    "Llama-2-7b-chat",
+    "Llama-2-13b-chat",
+    "Llama-2-70b-chat",
+]
+
+MISTRAL_MODELS = [
+    "Mistral-7B",
+]
+
+MISTRAL_INSTRUCT_MODELS = [
+    "Mistral-7B-Instruct",
+]
+
 
 def get_map_model_names():
     return {
@@ -72,6 +100,14 @@ def get_map_model_names():
         "flan-t5-large": "Flan-T5-Large",
         "flan-t5-xl": "Flan-T5-XL",
         "flan-t5-xxl": "Flan-T5-XXL",
+        "Llama-2-7b": "Llama-7B",
+        "Llama-2-13b": "Llama-13B",
+        "Llama-2-70b": "Llama-70B",
+        "Llama-2-7b-chat": "Llama-7B-Chat",
+        "Llama-2-13b-chat": "Llama-13B-Chat",
+        "Llama-2-70b-chat": "Llama-70B-Chat",
+        "Mistral-7B": "Mistral",
+        "Mistral-7B-Instruct": "Mistral-Inst",
     }
 
 

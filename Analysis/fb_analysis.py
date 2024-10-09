@@ -1,6 +1,30 @@
 import pandas as pd
 from scipy.stats import bootstrap
 import numpy as np
+from Data_generation.templates import FB_MORE_THAN_ONE_TOKEN_ANSWERS
+
+
+def check_for_more_than_one_token_answer(
+    all_tokens, answer_log_prob, model_ans, all_log_probs
+):
+    all_tokens_string = " ".join(all_tokens)
+
+    # if more than one answer is in all_tokens_string:
+    for few_tokens_answer, answer_value in FB_MORE_THAN_ONE_TOKEN_ANSWERS.items():
+        if few_tokens_answer in all_tokens_string:
+            model_ans = answer_value
+            answer_log_prob = get_log_prob_of_fb_long_answer(
+                few_tokens_answer, all_tokens, all_log_probs
+            )
+
+    return model_ans, answer_log_prob
+
+
+def get_log_prob_of_fb_long_answer(few_tokens_answer, all_tokens, all_log_probs):
+    # take the log prob of the last token in the answer (arbitrary choice)
+    index_of_few_tokens_answer = all_tokens.index(few_tokens_answer.split(" ")[-1])
+    answer_log_prob = all_log_probs[index_of_few_tokens_answer]
+    return answer_log_prob
 
 
 def get_fb_acceptance_percentages(ans_meaning, ans_probs):
@@ -8,7 +32,9 @@ def get_fb_acceptance_percentages(ans_meaning, ans_probs):
     # new, not tested!
     df = pd.concat([df, pd.DataFrame(ans_probs)], axis=1)
 
-    confidences = get_fb_bi(df)
+    # remove samples with undecided answer for confidence calculation
+    # confidences = get_fb_bi(df)
+    confidences = get_fb_bi(df[df["model_pred_is_valid"] != -1])
 
     vb_valid = len(
         df[
@@ -18,6 +44,13 @@ def get_fb_acceptance_percentages(ans_meaning, ans_probs):
         ]
     )
     vb = len(df[(df["is_valid"] == True) & (df["is_believable"] == True)])
+    # vb = len(
+    #     df[
+    #         (df["is_valid"] == True)
+    #         & (df["is_believable"] == True)
+    #         & (df["model_pred_is_valid"] != -1)
+    #     ]
+    # )
 
     vu_valid = len(
         df[
@@ -27,6 +60,13 @@ def get_fb_acceptance_percentages(ans_meaning, ans_probs):
         ]
     )
     vu = len(df[(df["is_valid"] == True) & (df["is_believable"] == False)])
+    # vu = len(
+    #     df[
+    #         (df["is_valid"] == True)
+    #         & (df["is_believable"] == False)
+    #         & (df["model_pred_is_valid"] != -1)
+    #     ]
+    # )
 
     ib_valid = len(
         df[
@@ -36,6 +76,13 @@ def get_fb_acceptance_percentages(ans_meaning, ans_probs):
         ]
     )
     ib = len(df[(df["is_valid"] == False) & (df["is_believable"] == True)])
+    # ib = len(
+    #     df[
+    #         (df["is_valid"] == False)
+    #         & (df["is_believable"] == True)
+    #         & (df["model_pred_is_valid"] != -1)
+    #     ]
+    # )
 
     iu_valid = len(
         df[
@@ -45,6 +92,13 @@ def get_fb_acceptance_percentages(ans_meaning, ans_probs):
         ]
     )
     iu = len(df[(df["is_valid"] == False) & (df["is_believable"] == False)])
+    # iu = len(
+    #     df[
+    #         (df["is_valid"] == False)
+    #         & (df["is_believable"] == False)
+    #         & (df["model_pred_is_valid"] != -1)
+    #     ]
+    # )
 
     undecided = len(df[df["model_pred_is_valid"] == -1])
 

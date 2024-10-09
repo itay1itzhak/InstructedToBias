@@ -210,7 +210,8 @@ def calc_scores(
     (
         diff_score,
         undecided_scores,
-        target_prob_mean,
+        # target_prob_mean,
+        choice_prob_mean,
         p_value,
     ) = get_bias_scores(bias_name, pred_df, confidences, full_df, comparing_dict)
 
@@ -218,7 +219,7 @@ def calc_scores(
     comparing_dict["p_value"].append(p_value)
 
     unpack_dict_to_dict(comparing_dict, undecided_scores)
-    unpack_dict_to_dict(comparing_dict, target_prob_mean)
+    unpack_dict_to_dict(comparing_dict, choice_prob_mean)  # target_prob_mean)
     unpack_dict_to_dict(comparing_dict, all_options_percentage)
 
 

@@ -1,9 +1,8 @@
+from dotenv import load_dotenv
 import numpy as np
 import openai
 import os
 import time
-
-# from dotenv import load_dotenv
 from retry import retry
 
 from Data_generation.templates import get_possible_answers
@@ -48,7 +47,10 @@ class OpenAIPredictor(Predictor):
     def add_openai_parameters(self, parameters):
         # openai API setup and parameters
         # openai.organization = YOUR_KEY_HERE
+        load_dotenv()
         openai.api_key = os.getenv("OPENAI_API_KEY")
+
+        # openai.api_key = os.getenv("OPENAI_API_KEY")
         print(f"openai.api_key={openai.api_key}")
 
         parameters["top_p"] = 0  # greedy

@@ -108,10 +108,18 @@ def analyze_certainty_answer(cur_sample, model_ans, results):
         ans_meaning = "-1"
     results["all_ans_meaning"].append(ans_meaning)
 
+    if cur_sample["metadata"]["subtemplates"]["permutation_index"] == 1:
+        target_option_location = 2
+    else:
+        target_option_location = 1
     sample_id = frozenset(
         (
-            cur_sample["metadata"]["subtemplates"]["bias_type_index"],
-            cur_sample["metadata"]["subtemplates"]["vals_index"],
+            # "bias_type_index="
+            # + str(cur_sample["metadata"]["subtemplates"]["bias_type_index"]),
+            # "vals_index=" + str(cur_sample["metadata"]["subtemplates"]["vals_index"]),
+            f"target_option_location=" + str(target_option_location),
+            "template=" + str(cur_sample["metadata"]["template"]),
+            # + str(cur_sample["metadata"]["subtemplates"]["permutation_index"]),
         )
     )
 

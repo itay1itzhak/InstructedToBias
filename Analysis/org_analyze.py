@@ -110,7 +110,6 @@ def get_all_dfs(bias_name, all_ans, ylabel):
 
 def write_results_to_file(
     results_df,
-    full_df,
     confidences,
     logging_path,
     file_prefix,
@@ -123,8 +122,6 @@ def write_results_to_file(
         get_results_comments_name(conditions, templates, bias_types)
     ).with_suffix(".csv")
     results_df.to_csv(res_f_name)
-    if full_df is not None:
-        full_df.to_csv(res_f_name.with_stem(res_f_name.stem + "full_answers"))
     if confidences is not None:
         confidences.to_csv(res_f_name.with_stem(res_f_name.stem + "confidences"))
         with open(logging_path.with_suffix(".txt"), "a+") as f:
@@ -161,7 +158,6 @@ def get_predictions_analysis(
 
     write_results_to_file(
         results_df,
-        full_df,
         confidences,
         logging_path,
         file_prefix,

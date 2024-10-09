@@ -1,33 +1,11 @@
 import itertools
 import logging
 import argparse
+import os
 from Data_generation.templates import ALL_DECOY_PRODUCTS
 
 from Predict.predict import generate_all_predictions
-from utils import get_bias_type_templates_defaults
-
-# the following models are tuned on instructions and will predict according generated text
-INSTURCT_MODELS = [
-    "text-davinci-002",
-    "text-davinci-003",
-    "flan-t5-xl",
-    "flan-t5-xxl",
-    "flan-t5-small",
-    "gpt-4-0314",
-    "gpt-4",
-]
-
-# the following models are vanilla and will predict according to log probs
-VANILLA_MODELS = [
-    "davinci",
-    "t5-v1_1-small",
-    "t5-v1_1-xl",
-    "t5-v1_1-xxl",
-    "t5-11b",
-    "t5-small",
-    "llama-7b",
-    "llama-13b",
-]
+from utils import INSTURCT_MODELS, VANILLA_MODELS, get_bias_type_templates_defaults
 
 
 def set_experiment_args(
@@ -90,13 +68,17 @@ def set_experiment_args(
         "text-davinci-003",
     ]:
         experiment_args["save_every_n_examples"] = 100
-    # gpt4 is slow, so we save every 10 examples
-    elif experiment_args["engine"] in ["gpt-4-0314", "gpt-4"]:
-        experiment_args["save_every_n_examples"] = 10
-
+    # gpt4 and llama-2 are slow, so we save every 10 examples
+    # elif experiment_args["engine"] in [
+    #     "gpt-4-0314",
+    #     "gpt-4",
+    #     "Llama-2-7b",
+    #     "Llama-2-7b-chat",
+    # ]:
+    #     experiment_args["save_every_n_examples"] = 10
     # for everything else, we save every 1000 examples
     else:
-        experiment_args["save_every_n_examples"] = 1000
+        experiment_args["save_every_n_examples"] = 10
 
     return experiment_args
 

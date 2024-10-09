@@ -8,48 +8,17 @@ from transformers import (
     T5ForConditionalGeneration,
 )
 
+from Predict.hugging_face_perdictor import HFPredictor
+
 sm = torch.nn.LogSoftmax(dim=1)
-import numpy as np
 import logging
 
 logging.basicConfig(level=logging.INFO)
 logging.getLogger().setLevel(logging.INFO)
-
-
-import numpy as np
 import os
 
 
-# from dotenv import load_dotenv
-from retry import retry
-
-from Data_generation.templates import get_possible_answers
-from Predict.Predictor import Predictor
-
-
-class T5Predictor(Predictor):
-    def __init__(
-        self,
-        bias_name,
-        engine,
-        max_tokens,
-        predict_according_to_log_probs,
-        should_normalize,
-        save_every_n_examples,
-    ):
-        super().__init__(
-            bias_name,
-            engine,
-            max_tokens,
-            predict_according_to_log_probs,
-            should_normalize,
-            save_every_n_examples,
-        )
-
-    def set_parameters(self):
-        super().set_parameters()
-        self.load_t5_model_and_tokenizer()
-
+class T5Predictor(HFPredictor):
     def get_scores_for_labels(self, input, labels):
         batch_size, num_labels = len(input), len(labels)
         # Get encodings
@@ -124,36 +93,7 @@ class T5Predictor(Predictor):
         # cross entropy). To obtain the "logits", we need to multiply by -1.
         return labels_scores * -1
 
-    def get_t5_maximum_logprobs_answer(
-        self,
-        prompt,
-    ):
-        labels = [t[0] for t in self.possible_answers]
-
-        # Get the scores for each possible answer
-        labels_scores = self.get_scores_for_labels([prompt], labels)
-
-        if self.should_normalize:
-            if not self.base_probs:
-                self.base_probs["base_probs"] = self.get_scores_for_labels(
-                    [prompt.split("\n")[-1]], labels
-                )
-
-            labels_scores = labels_scores - self.base_probs["base_probs"]
-        # Get the maximum score for each input
-        max_scores = labels_scores.max(dim=-1)[0]
-        # Get the index of the maximum score for each input
-        max_scores_idx = labels_scores.argmax(dim=-1)
-        # Get the answer corresponding to the maximum score
-        max_scores_answers = self.possible_answers[max_scores_idx][0]
-        # Get the log probability of the maximum score
-        max_scores_logprobs = max_scores - labels_scores.logsumexp(dim=-1)
-        # Get the normalized log probability of the maximum score
-        # max_scores_logprobs_norm = max_scores_logprobs - max_scores_logprobs.logsumexp(dim=-1)
-
-        return max_scores_answers, max_scores_logprobs.item()
-
-    def get_t5_prediction(self, prompt):
+    def get_generated_prediction(self, prompt):
         inputs = self.tokenizer(prompt, return_tensors="pt")
         if torch.cuda.is_available():
             inputs = inputs.to(self.model.device)
@@ -172,28 +112,16 @@ class T5Predictor(Predictor):
 
         return pred_text[0].strip().strip("."), logits
 
-    def load_t5_model_and_tokenizer(
+    def load_model_and_tokenizer(
         self,
     ):
-        cwd = os.getcwd()
-        cache_dir = cwd + "/huggingface/.cache"
-        os.makedirs(cache_dir, exist_ok=True)
-
-        model_name = self.parameters["engine"]
-        logging.info(f"Loading model and tokenizer for {model_name}")
-        if torch.cuda.is_available():
-            torch_dtype = torch.float32  # float32##
-            device = torch.device("cuda")
-        else:
-            torch_dtype = torch.float32
-            device = torch.device("cpu")
-        logging.info(f"Using device {device} {torch_dtype}")
+        model_name, _, cache_dir = self.set_device_and_cache_dir()
 
         if "flan" in model_name:
             model = AutoModelForSeq2SeqLM.from_pretrained(
                 f"google/{model_name}",
                 cache_dir=cache_dir,
-                torch_dtype=torch_dtype,
+                torch_dtype=torch.float32,  # torch_dtype,
                 low_cpu_mem_usage=True,
             )  # , device_map="auto"#, load_in_8bit=True
             # )
@@ -202,45 +130,12 @@ class T5Predictor(Predictor):
             model = T5ForConditionalGeneration.from_pretrained(
                 f"google/{model_name}",
                 cache_dir=cache_dir,
-                torch_dtype=torch_dtype,
+                torch_dtype=torch.float32,  # torch_dtype,
                 low_cpu_mem_usage=True,
             )  # ,device_map='balanced')#, device_map="auto"#, load_in_8bit=True
             # )
             tokenizer = T5Tokenizer.from_pretrained(f"google/{model_name}")
-        if torch.cuda.is_available():
-            print(f"{model.device=}")
-            model.to("cuda")
-            model.parallelize()
-            print("parallelizing...")
-            print(f"{model.device=}")
-        if "cpu" in str(model.device):
-            print(f"NO GPU! {model.device=}")
-        else:
-            print(f"Using GPU. {model.device=}")
 
+        self.change_model_device(model)
         self.model = model
         self.tokenizer = tokenizer
-
-    def predict(
-        self,
-        example,
-        prompt,
-    ):
-        prediction = dict()
-        prediction["input"] = prompt
-
-        if self.possible_answers:
-            prediction_text, prediction_log_probs = self.get_t5_maximum_logprobs_answer(
-                prompt,
-            )
-        else:  # return model completion
-            prediction_text, prediction_log_probs = self.get_t5_prediction(
-                prompt,
-            )
-
-        prediction["prediction"] = prediction_text
-        metadata = example.copy()
-        metadata["log_probs"] = prediction_log_probs
-
-        prediction["metadata"] = metadata
-        return prediction, metadata

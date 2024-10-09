@@ -88,7 +88,7 @@ def plot_histogram(
         plt.xlabel("Option")
 
     plt.ylabel(plot_ylabel)
-    plt.legend(bbox_to_anchor=(1.22, 0.98), loc="upper right", borderaxespad=1)
+    plt.legend(bbox_to_anchor=(1.22, 0.98), loc="upper left", borderaxespad=1)
     plt.savefig(fig_f_name, bbox_inches="tight")
     plt.clf()
 
@@ -136,36 +136,43 @@ def plot_acceptance_rates(results_df):
         y="real_valid_acceptance",
         data=results_df,
         label="Real Valid",
-        linewidth=1.5,
+        linewidth=3,
     )
     sns.lineplot(
         x="model",
         y="non_real_valid_acceptance",
         data=results_df,
         label="Non-Real Valid",
-        linewidth=1.5,
+        linewidth=3,
     )
     sns.lineplot(
         x="model",
         y="real_invalid_acceptance",
         data=results_df,
         label="Real Invalid",
-        linewidth=1.5,
+        linewidth=3,
     )
     ax = sns.lineplot(
         x="model",
         y="non_real_invalid_acceptance",
         data=results_df,
         label="Non-Real Invalid",
-        linewidth=1.5,
+        linewidth=3,
     )
+    # set legend on upper left
+    plt.legend(bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=1)
+    # set figure size
+    sns.move_legend(ax, "upper left", bbox_to_anchor=(1, 1))
+    # set figure size
+    ax.figure.set_size_inches(10, 6)
+
     plt.ylabel("Acceptance Rate")
     return ax
 
 
 def save_belief_plot(experiment_args, ax, all_models, file_suffix):
     # Save the plot
-    plt.legend(bbox_to_anchor=(1.02, 1), loc="upper right", borderaxespad=1)
+    plt.legend(bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=1)
     sns.move_legend(ax, "upper left", bbox_to_anchor=(1, 1))
     file_suffix += experiment_args["comments_results_name"]
 

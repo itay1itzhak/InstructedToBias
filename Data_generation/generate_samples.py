@@ -1,7 +1,7 @@
 import argparse
 import logging
 from pathlib import Path
-from Data_generation.templates import ALL_DECOY_PRODUCTS
+from templates import ALL_DECOY_PRODUCTS
 
 from generate_samples_decoy import get_decoy_vals, Decoy_type
 from generate_samples_certainty import get_certainty_vals, Certainty_type
@@ -68,6 +68,10 @@ def get_bias_types(bias_name, bias_types, with_bias):
                 bias_types_enums.append(Belief_type.EXP_DM_1)
             elif t == "dm_2":
                 bias_types_enums.append(Belief_type.EXP_DM_2)
+            elif t == "dm_full":
+                raise NameError(
+                    f"Bias type dm_full refers to the full data by DeepMind. We do not provide thier data, please refer to the paper authors for details on the data. https://arxiv.org/abs/2207.07051"
+                )
             else:
                 raise NameError(
                     f"Bias type not supported for bias name - {bias_name}, bias type - {bias_types}"

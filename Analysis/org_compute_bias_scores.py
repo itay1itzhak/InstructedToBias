@@ -211,12 +211,6 @@ def update_compare_dict_fb_bias_scores(comparing_dict, pred_df):
         comparing_dict["Real Accuracy"] = []
         comparing_dict["Non-Real Accuracy"] = []
 
-        comparing_dict["Real Valid-Believable Accuracy"] = []
-        comparing_dict["Real Valid-Unbelievable Accuracy"] = []
-        comparing_dict["Real Invalid-Believable Accuracy"] = []
-        comparing_dict["Real Invalid-Unbelievable Accuracy"] = []
-        comparing_dict["Non-Real Invalid Accuracy"] = []
-
     non_real_valid_acceptance = pred_df[
         (pred_df["Type"] == "Valid-Unbelievable")
         | (pred_df["Type"] == "Valid-Believable")
@@ -255,18 +249,6 @@ def update_compare_dict_fb_bias_scores(comparing_dict, pred_df):
             ]
         )
     )
-
-    comparing_dict["Real Valid-Believable Accuracy"].append(
-        pred_df[pred_df["Type"] == "Valid-Believable"]["Real-life Objects"].iloc[0])
-    comparing_dict["Real Valid-Unbelievable Accuracy"].append(
-        pred_df[pred_df["Type"] == "Valid-Unbelievable"]["Real-life Objects"].iloc[0])
-    comparing_dict["Real Invalid-Believable Accuracy"].append(
-        1 - pred_df[pred_df["Type"] == "Invalid-Believable"]["Real-life Objects"].iloc[0])
-    comparing_dict["Real Invalid-Unbelievable Accuracy"].append(
-        1 - pred_df[pred_df["Type"] == "Invalid-Unbelievable"]["Real-life Objects"].iloc[0])
-
-    comparing_dict["Non-Real Invalid Accuracy"].append(1 - non_real_invalid_acceptance)
-    
 
 
 def calc_fb_bias_scores_per_score_type(bias_scores, confidences, score_type):

@@ -123,7 +123,7 @@ ALL_DECOY_TEMP_TWO_OPTIONS = {
 # Decoy few shot templates
 # With two options
 
-FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1_OLD = Template(
     "The following are two table brands.\n"
     + "The only details you know are the tables colors.\n"
     + "Brand 1 - white.\n"
@@ -133,7 +133,7 @@ FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1 = Template(
 )
 
 
-FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2_OLD = Template(
     "Here are two fruit brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - bananas.\n"
@@ -142,7 +142,7 @@ FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3_OLD = Template(
     "Here are two shirt brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - white shirt.\n"
@@ -151,7 +151,7 @@ FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_4 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_4_OLD = Template(
     "Here are two pizza brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - city pizza.\n"
@@ -160,7 +160,7 @@ FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_4 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_5 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_5_OLD = Template(
     "Here are two shoes brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - sport shoes.\n"
@@ -169,8 +169,65 @@ FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_5 = Template(
     + "Answer: Brand $OPTION."
 )
 
+DECOY_FEW_SHOT_ANSWER = Template(" Brand $OPTION.")
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1 = {
+    "question": "The following are two table brands.\n"
+    + "The only details you know are the tables colors.\n"
+    + "Brand 1 - white.\n"
+    + "Brand 2 - black.\n"
+    + "The color I would choose would be:\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2 = {
+    "question": "Here are two fruit brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - bananas.\n"
+    + "Brand 2 - oranges.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3 = {
+    "question": "Here are two shirt brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - white shirt.\n"
+    + "Brand 2 - blue shirt.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_4 = {
+    "question": "Here are two pizza brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - city pizza.\n"
+    + "Brand 2 - urban pizza.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+
+FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_5 = {
+    "question": "Here are two shoes brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - sport shoes.\n"
+    + "Brand 2 - running shoes.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
 
 ALL_DECOY_TWO_OPTIONS_FORMAT_FEW_SHOT = {
+    # 1: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1_OLD,
+    # 2: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2_OLD,
+    # 3: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3_OLD,
+    # 4: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_4_OLD,
+    # 5: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_5_OLD,
     1: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_1,
     2: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_2,
     3: FORMAT_FEW_SHOT_TEXT_DECOY_TWO_OPTIONS_3,
@@ -180,7 +237,7 @@ ALL_DECOY_TWO_OPTIONS_FORMAT_FEW_SHOT = {
 
 # With three options
 
-FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1_OLD = Template(
     "The following are three table brands.\n"
     + "The only details you know are the tables' colors.\n"
     + "Brand 1 - white.\n"
@@ -190,8 +247,19 @@ FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1 = Template(
     + "Answer: Brand $OPTION."
 )
 
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1 = {
+    "question": "The following are three table brands.\n"
+    + "The only details you know are the tables' colors.\n"
+    + "Brand 1 - white.\n"
+    + "Brand 2 - black.\n"
+    + "Brand 3 - brown.\n"
+    + "The color I would choose would be:\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
 
-FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2 = Template(
+
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2_OLD = Template(
     "Here are three fruit brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - bananas.\n"
@@ -201,7 +269,29 @@ FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2 = {
+    "question": "Here are three fruit brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - bananas.\n"
+    + "Brand 2 - oranges.\n"
+    + "Brand 3 - apples.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3 = {
+    "question": "Here are three shirt brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - black shirt.\n"
+    + "Brand 2 - white shirt.\n"
+    + "Brand 3 - blue shirt.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3_OLD = Template(
     "Here are three shirt brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - black shirt.\n"
@@ -211,7 +301,18 @@ FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_4 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_4 = {
+    "question": "Here are two pizza brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - city pizza.\n"
+    + "Brand 2 - urban pizza.\n"
+    + "Brand 3 - town pizza.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_4_OLD = Template(
     "Here are two pizza brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - city pizza.\n"
@@ -221,7 +322,19 @@ FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_4 = Template(
     + "Answer: Brand $OPTION."
 )
 
-FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_5 = Template(
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_5 = {
+    "question": "Here are two shoes brands.\n"
+    + "You only need to choose one option of them.\n"
+    + "Brand 1 - sport shoes.\n"
+    + "Brand 2 - running shoes.\n"
+    + "Brand 3 - jogging shoes.\n"
+    + "Which option would you choose?\n"
+    + "Answer:",
+    "answer": DECOY_FEW_SHOT_ANSWER,
+}
+
+
+FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_5_OLD = Template(
     "Here are two shoes brands.\n"
     + "You only need to choose one option of them.\n"
     + "Brand 1 - sport shoes.\n"
@@ -233,6 +346,11 @@ FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_5 = Template(
 
 
 ALL_DECOY_THREE_OPTIONS_FORMAT_FEW_SHOT = {
+    # 1: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1_OLD,
+    # 2: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2_OLD,
+    # 3: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3_OLD,
+    # 4: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_4_OLD,
+    # 5: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_5_OLD,
     1: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_1,
     2: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_2,
     3: FORMAT_FEW_SHOT_TEXT_DECOY_THREE_OPTIONS_3,
@@ -299,26 +417,6 @@ CERTAINTY_TEMPLATES = {
             + "$FIRST_OPTION_OPENING - $FIRST_OPTION.\n"
             + "$SECOND_OPTION_OPENING - $SECOND_OPTION.\n"
             + "Answer:"
-        ),
-    },
-    "CERTAINTY_FORMAT_FEW_SHOT": {
-        1: Template(
-            "$OPENING_LINE\n"
-            + "Option A - white shirt.\n"
-            + "Option B - black shirt.\n"
-            + "$CLOSING_LINE Option $OPTION.\n"
-        ),
-        4: Template(
-            "$OPENING_LINE\n"
-            + "Option A - oranges.\n"
-            + "Option B - bananas.\n"
-            + "$CLOSING_LINE Option $OPTION.\n"
-        ),
-        5: Template(
-            "$OPENING_LINE\n"
-            + "Option A - brown table.\n"
-            + "Option B - white table.\n"
-            + "$CLOSING_LINE Option $OPTION.\n"
         ),
     },
     "ALL_CERTAINTY_FORMAT_FEW_SHOT_OBJECTS": {
@@ -410,7 +508,7 @@ TEMP_FALSE_BELIEF_DEEPMIND_5 = Template(
 )
 
 TEMP_FALSE_BELIEF_DEEPMIND_6 = Template(
-    "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\n"
+    "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\n"
     + "$PREMISE1.\n"
     + "$PREMISE2.\n"
     + "Conclusion: $CONCLUSION.\n"
@@ -418,12 +516,13 @@ TEMP_FALSE_BELIEF_DEEPMIND_6 = Template(
 )
 
 TEMP_FALSE_BELIEF_DEEPMIND_7 = Template(
-    "Carefully evaluate these logical arguments, and determine whether each is valid or invalid.\n\nArgument:\n"
+    "Answer these logic problems carefully, by determining whether each argument is valid or invalid.\n\nArgument:\n"
     + "$PREMISE1.\n"
     + "$PREMISE2.\n"
     + "Conclusion: $CONCLUSION.\n"
     + "$CLOSING_LINE"
 )
+
 
 ALL_FALSE_BELIEF_DEEPMIND_TEMP = {
     1: TEMP_FALSE_BELIEF_DEEPMIND_1,
@@ -446,8 +545,18 @@ FB_UNDECIDED_ANSWERS = [
     "cannot be definitively",
     "cannot be drawn",
     "cannot be determined",
+    "cannot determined",
+    "cannot be concluded",
+    "I'm sorry",
+    "Please select one of the options from the table above",  # llama-2-chat common answer
 ]
 
+FB_MORE_THAN_ONE_TOKEN_ANSWERS = {
+    "is logically valid": True,
+    "does logically follow": True,
+    "is not logically valid": True,
+    "does not logically follow": False,
+}
 # False Belife values
 ALL_FB_OBJECTS_BIAS_DM_1 = {
     1: {
